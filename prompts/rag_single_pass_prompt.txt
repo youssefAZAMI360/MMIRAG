@@ -1,0 +1,31 @@
+# NOTE: The single-pass RAG condition was evaluated on the external MedMCQA
+# replication (see data/medmcqa_results.csv and the paper's External
+# Replication section). The primary 360-question benchmark reports two
+# conditions: No-RAG and RAG-SEQ.
+
+Answer the following pathology multiple-choice question.
+Use the retrieved context below to support your reasoning.
+
+--- RETRIEVED CONTEXT (from verified medical literature) ---
+{retrieved_chunk_1}
+
+{retrieved_chunk_2}
+
+{retrieved_chunk_3}
+--- END RETRIEVED CONTEXT ---
+
+Patient History:
+{patient_history}
+
+Question:
+{question_stem}
+
+Options:
+A. {option_a}
+B. {option_b}
+C. {option_c}
+D. {option_d}
+E. {option_e}  [if applicable]
+
+Provide your answer as a single letter followed by your justification.
+Ground your justification in the retrieved context where relevant.

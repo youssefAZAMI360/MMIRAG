@@ -1,0 +1,31 @@
+You previously identified the following gap in your knowledge:
+
+GAP: {gap_description_from_previous_iteration}
+
+New targeted context has been retrieved to address this gap:
+
+--- ADDITIONAL RETRIEVED CONTEXT ---
+{new_retrieved_chunk_1}
+
+{new_retrieved_chunk_2}
+--- END ADDITIONAL CONTEXT ---
+
+Combined with your previous context, now answer the question:
+
+Patient History:
+{patient_history}
+
+Question:
+{question_stem}
+
+Options:
+A. {option_a}
+B. {option_b}
+C. {option_c}
+D. {option_d}
+E. {option_e}  [if applicable]
+
+If you still have LOW confidence, respond with another GAP_IDENTIFIED.
+Otherwise provide your final answer.
+
+Format: [LETTER] [Justification]

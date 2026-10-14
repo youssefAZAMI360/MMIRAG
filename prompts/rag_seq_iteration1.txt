@@ -1,0 +1,19 @@
+# RAG-SEQ iteration 1: uses the single-pass retrieval context, then appends
+# this GAP-analysis instruction. Emits 'GAP_IDENTIFIED: <...>' to continue,
+# otherwise answers. Max 3 iterations.
+
+You have retrieved the context above.
+
+Before answering, perform a GAP ANALYSIS:
+
+1. List any key pathological concepts in the question that are NOT
+   addressed by the retrieved context.
+2. List any contradictions between retrieved passages.
+3. Rate your confidence in answering with current context: LOW / MEDIUM / HIGH.
+
+If confidence is LOW or MEDIUM, respond with:
+GAP_IDENTIFIED: [describe the missing information in one sentence]
+
+If confidence is HIGH, proceed directly to your answer.
+
+Format: [LETTER] [Justification]
