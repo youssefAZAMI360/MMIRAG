@@ -1,0 +1,5 @@
+condition,acc
+general dense,0.91
+biomedical dense,0.9233
+biomedical+MedCPT rerank,0.92
+hybrid BM25+dense RRF,0.9167

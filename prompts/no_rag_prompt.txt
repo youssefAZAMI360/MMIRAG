@@ -1,0 +1,16 @@
+Answer the following pathology multiple-choice question.
+
+Patient History:
+{patient_history}
+
+Question:
+{question_stem}
+
+Options:
+A. {option_a}
+B. {option_b}
+C. {option_c}
+D. {option_d}
+E. {option_e}  [if applicable]
+
+Provide your answer as a single letter followed by your justification.

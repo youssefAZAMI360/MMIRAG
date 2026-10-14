@@ -1,0 +1,301 @@
+domain,correct,c_gen,c_bio,c_medcpt,c_hybrid,ov_gen_bio
+Atherosclerosis,B,0,1,1,1,0.0
+Atherosclerosis,A,1,1,1,0,0.6
+Atherosclerosis,E,1,1,1,1,0.4
+Cardiovascular,C,1,1,1,1,0.6
+Cardiovascular,B,1,1,1,1,0.0
+Cardiovascular,C,0,0,0,0,0.0
+Cardiovascular,B,0,0,0,0,0.2
+cellular injury,D,0,0,0,0,0.0
+cellular injury,D,0,0,0,0,0.0
+cellular injury,B,0,0,0,0,0.6
+cellular injury,C,0,0,0,0,0.4
+Immunopathology,D,1,1,1,1,0.4
+Immunopathology,B,0,1,1,1,0.0
+Immunopathology,A,1,1,1,0,0.6
+Inflammation,A,1,1,1,1,0.0
+Neoplasia,D,0,0,0,0,0.0
+Neoplasia,D,1,1,1,1,0.8
+Neoplasia,B,0,0,0,0,0.0
+Neoplasia,B,0,0,0,0,0.4
+Neoplasia,C,0,1,1,1,0.0
+Neoplasia,D,0,0,0,0,0.2
+Atherosclerosis,A,1,1,1,1,0.4
+Atherosclerosis,D,1,1,1,1,0.2
+Atherosclerosis,C,1,1,1,1,0.0
+Atherosclerosis,E,1,1,1,1,0.4
+Atherosclerosis,D,1,1,1,1,0.4
+Atherosclerosis,D,1,1,1,1,0.2
+Atherosclerosis,D,1,1,1,1,0.2
+Atherosclerosis,E,1,1,1,1,0.4
+Atherosclerosis,B,1,1,1,1,0.4
+Atherosclerosis,D,1,1,1,1,0.4
+Atherosclerosis,C,1,1,1,1,0.2
+Atherosclerosis,E,1,1,1,1,0.0
+Atherosclerosis,A,1,1,1,1,0.4
+Atherosclerosis,A,1,1,1,1,0.2
+Atherosclerosis,E,1,1,1,1,0.2
+Atherosclerosis,C,1,1,1,1,0.4
+Atherosclerosis,C,1,1,1,1,0.0
+Atherosclerosis,D,1,1,1,1,0.0
+Atherosclerosis,D,1,1,1,1,0.2
+Atherosclerosis,B,1,1,1,1,0.0
+Atherosclerosis,B,1,1,1,1,0.2
+Atherosclerosis,A,1,1,1,1,0.6
+Atherosclerosis,E,1,1,1,1,0.2
+Atherosclerosis,B,1,1,1,1,0.4
+Atherosclerosis,A,1,1,1,1,0.4
+Atherosclerosis,D,1,1,1,1,0.4
+Atherosclerosis,B,1,1,1,1,0.4
+Atherosclerosis,E,0,0,0,0,0.2
+Atherosclerosis,D,1,1,1,1,0.6
+Atherosclerosis,A,1,1,1,1,0.4
+Atherosclerosis,A,1,1,1,1,0.0
+Atherosclerosis,D,1,1,1,1,0.0
+Atherosclerosis,D,1,1,1,1,0.0
+Atherosclerosis,C,1,1,1,1,0.2
+Atherosclerosis,B,1,1,1,1,0.2
+Atherosclerosis,C,1,1,1,1,0.4
+Atherosclerosis,C,1,1,1,1,0.4
+Atherosclerosis,B,1,1,1,1,0.2
+Atherosclerosis,C,1,1,1,1,0.0
+Atherosclerosis,B,1,1,1,1,0.2
+Atherosclerosis,C,1,1,1,1,0.0
+Atherosclerosis,C,1,1,1,1,0.0
+Atherosclerosis,E,1,1,1,1,0.0
+Atherosclerosis,E,1,1,1,1,0.4
+Atherosclerosis,B,1,1,1,1,0.0
+Atherosclerosis,C,1,1,1,1,0.4
+Atherosclerosis,E,1,1,1,1,0.6
+Cardiovascular,B,1,1,1,1,0.0
+Cardiovascular,C,1,1,1,1,0.4
+Cardiovascular,C,1,1,1,1,0.2
+Cardiovascular,C,1,1,1,1,0.0
+Cardiovascular,D,1,1,1,1,0.6
+Cardiovascular,D,1,1,1,1,0.2
+Cardiovascular,B,1,1,1,1,0.6
+Cardiovascular,B,1,1,1,1,0.2
+Cardiovascular,D,1,1,1,1,0.0
+Cardiovascular,C,1,1,1,1,0.0
+Cardiovascular,E,1,1,1,1,0.0
+Cardiovascular,D,1,1,1,1,0.0
+Cardiovascular,D,1,1,1,1,0.6
+Cardiovascular,D,1,1,1,1,0.6
+Cardiovascular,A,1,1,1,1,0.2
+Cardiovascular,B,1,1,1,1,0.0
+Cardiovascular,C,1,1,1,1,0.4
+Cardiovascular,C,1,1,1,1,0.4
+Cardiovascular,E,0,0,0,0,0.0
+Cardiovascular,D,1,1,1,1,0.0
+Cardiovascular,D,1,1,1,1,0.0
+Cardiovascular,B,1,1,1,1,0.6
+Cardiovascular,A,0,0,0,0,0.0
+Cardiovascular,B,1,1,1,1,0.0
+Cardiovascular,C,1,1,1,1,0.2
+Cardiovascular,A,1,1,1,1,0.2
+Cardiovascular,B,1,1,1,1,0.4
+Cardiovascular,D,1,1,1,1,0.2
+Cardiovascular,A,1,1,1,1,0.2
+Cardiovascular,D,1,1,1,1,0.2
+Cardiovascular,E,1,1,1,1,0.4
+Cardiovascular,B,0,0,1,0,0.2
+Cardiovascular,E,1,1,1,1,0.2
+Cardiovascular,E,1,1,0,1,0.0
+Cardiovascular,B,0,0,1,0,0.0
+Cardiovascular,A,1,1,1,1,0.2
+Cardiovascular,B,1,1,1,1,0.0
+Cardiovascular,D,1,1,1,1,0.8
+Cardiovascular,C,1,1,1,1,0.4
+Cardiovascular,E,1,1,1,1,0.2
+Cardiovascular,E,0,0,0,0,0.6
+cellular injury,E,1,1,1,1,0.8
+cellular injury,C,1,1,1,1,0.8
+cellular injury,D,1,1,1,1,0.2
+cellular injury,A,1,1,1,1,0.2
+cellular injury,C,1,1,1,1,0.6
+cellular injury,D,1,1,1,1,0.0
+cellular injury,E,1,1,1,1,0.6
+cellular injury,A,1,1,1,1,0.0
+cellular injury,E,1,1,1,1,0.4
+cellular injury,B,1,1,1,1,0.4
+cellular injury,B,1,1,1,1,0.0
+cellular injury,A,1,1,1,1,0.0
+cellular injury,C,1,1,1,1,0.0
+cellular injury,C,0,0,0,0,0.4
+cellular injury,A,1,1,1,1,0.2
+cellular injury,A,1,1,1,1,0.4
+cellular injury,A,1,1,1,1,0.6
+cellular injury,E,1,1,1,1,0.8
+cellular injury,C,1,1,1,1,0.4
+cellular injury,C,1,1,1,1,0.2
+cellular injury,A,1,1,1,1,0.4
+cellular injury,C,1,1,1,1,0.6
+cellular injury,A,1,1,1,1,0.2
+cellular injury,D,0,0,0,0,0.2
+cellular injury,C,1,1,1,1,0.8
+cellular injury,B,1,1,1,1,0.2
+cellular injury,A,1,1,1,1,0.2
+cellular injury,D,1,1,1,1,0.2
+cellular injury,B,1,1,1,1,0.2
+cellular injury,D,1,1,1,1,0.2
+cellular injury,C,1,1,1,1,0.6
+cellular injury,A,1,1,1,1,0.2
+cellular injury,B,1,1,1,1,0.0
+cellular injury,B,1,1,1,1,0.4
+cellular injury,D,1,1,1,1,0.6
+cellular injury,B,1,1,1,1,0.2
+cellular injury,D,1,1,1,1,0.0
+cellular injury,D,1,1,1,1,0.0
+cellular injury,D,1,1,1,1,0.8
+cellular injury,D,1,1,1,1,0.0
+cellular injury,B,1,1,1,1,0.2
+cellular injury,A,1,1,1,1,0.8
+cellular injury,A,1,1,1,1,0.2
+cellular injury,C,1,1,1,1,0.2
+cellular injury,C,1,1,1,1,0.6
+cellular injury,A,1,1,1,1,0.4
+cellular injury,B,1,1,1,1,0.6
+cellular injury,E,1,1,1,1,0.2
+cellular injury,D,1,1,1,1,0.0
+cellular injury,E,1,1,1,1,0.4
+cellular injury,B,1,1,1,1,0.2
+Immunopathology,A,1,1,1,1,0.4
+Immunopathology,D,1,1,1,1,0.2
+Immunopathology,C,1,1,1,1,0.0
+Immunopathology,E,1,1,1,1,0.4
+Immunopathology,D,1,1,1,1,0.2
+Immunopathology,D,1,1,1,1,0.2
+Immunopathology,E,1,1,1,1,0.4
+Immunopathology,B,1,1,1,1,0.4
+Immunopathology,D,1,1,1,1,0.4
+Immunopathology,C,1,1,1,1,0.2
+Immunopathology,E,1,1,1,1,0.0
+Immunopathology,A,1,1,1,1,0.4
+Immunopathology,A,1,1,1,1,0.2
+Immunopathology,E,1,1,1,1,0.2
+Immunopathology,C,1,1,1,1,0.4
+Immunopathology,C,1,1,1,1,0.0
+Immunopathology,D,1,1,1,1,0.0
+Immunopathology,D,1,1,1,1,0.2
+Immunopathology,B,1,1,1,1,0.0
+Immunopathology,B,1,1,1,1,0.2
+Immunopathology,A,1,1,1,1,0.6
+Immunopathology,E,1,1,1,1,0.2
+Immunopathology,B,1,1,1,1,0.4
+Immunopathology,A,1,1,1,1,0.4
+Immunopathology,D,1,1,1,1,0.4
+Immunopathology,B,1,1,1,1,0.4
+Immunopathology,E,0,0,0,0,0.2
+Immunopathology,D,1,1,1,1,0.6
+Immunopathology,A,1,1,1,1,0.4
+Immunopathology,A,1,1,1,1,0.0
+Immunopathology,D,1,1,1,1,0.0
+Immunopathology,D,1,1,1,1,0.0
+Immunopathology,C,1,1,1,1,0.2
+Immunopathology,B,1,1,1,1,0.2
+Immunopathology,C,1,1,1,1,0.4
+Immunopathology,C,1,1,1,1,0.4
+Immunopathology,B,1,1,1,1,0.2
+Immunopathology,C,1,1,1,1,0.0
+Immunopathology,B,1,1,1,1,0.2
+Immunopathology,C,1,1,1,1,0.0
+Immunopathology,C,1,1,1,1,0.0
+Immunopathology,E,1,1,1,1,0.0
+Immunopathology,E,1,1,1,1,0.4
+Immunopathology,E,1,1,1,1,0.4
+Immunopathology,B,1,1,1,1,0.0
+Immunopathology,C,1,1,1,1,0.4
+Immunopathology,E,1,1,1,1,0.6
+Inflammation,D,1,1,1,1,0.4
+Inflammation,C,1,1,0,1,0.0
+Inflammation,B,1,1,1,1,0.6
+Inflammation,E,1,1,1,1,0.4
+Inflammation,B,1,1,1,1,0.2
+Inflammation,E,1,1,1,1,0.2
+Inflammation,B,1,1,1,1,0.4
+Inflammation,D,1,1,1,1,0.0
+Inflammation,A,1,1,1,1,0.4
+Inflammation,E,1,0,1,1,0.6
+Inflammation,E,0,1,0,1,0.6
+Inflammation,B,1,1,1,1,0.6
+Inflammation,C,1,1,1,1,0.2
+Inflammation,D,1,1,1,1,0.2
+Inflammation,A,1,1,1,1,0.2
+Inflammation,E,1,1,1,1,0.0
+Inflammation,C,1,1,1,1,0.2
+Inflammation,E,1,1,1,1,0.2
+Inflammation,A,1,1,1,1,0.2
+Inflammation,D,1,1,1,1,0.4
+Inflammation,D,1,1,1,1,0.4
+Inflammation,B,1,1,1,1,0.2
+Inflammation,E,1,1,1,1,0.8
+Inflammation,B,1,1,1,1,0.0
+Inflammation,A,1,1,1,1,0.0
+Inflammation,E,1,1,1,1,0.0
+Inflammation,C,1,1,1,1,0.0
+Inflammation,D,1,1,1,1,0.0
+Inflammation,C,1,1,1,1,0.2
+Inflammation,C,1,1,1,1,0.0
+Inflammation,C,0,1,0,0,0.0
+Inflammation,D,1,1,1,1,0.2
+Inflammation,A,1,1,1,1,0.2
+Inflammation,C,1,1,1,1,0.2
+Inflammation,C,1,1,1,1,0.4
+Inflammation,A,1,1,1,1,0.0
+Inflammation,B,1,1,1,1,0.2
+Inflammation,E,1,1,1,1,0.2
+Inflammation,C,1,1,1,1,0.6
+Neoplasia,A,1,1,1,1,0.2
+Neoplasia,D,1,1,1,1,0.0
+Neoplasia,D,1,1,1,1,0.8
+Neoplasia,E,1,1,1,1,0.2
+Neoplasia,C,1,1,1,1,0.2
+Neoplasia,E,1,1,1,1,0.4
+Neoplasia,E,1,1,1,1,0.0
+Neoplasia,C,1,1,1,1,0.2
+Neoplasia,B,1,1,1,1,0.4
+Neoplasia,E,1,1,1,1,0.0
+Neoplasia,C,1,1,1,1,0.6
+Neoplasia,C,1,1,1,1,0.0
+Neoplasia,A,1,1,1,1,0.4
+Neoplasia,A,1,1,1,1,0.2
+Neoplasia,B,1,1,1,1,0.4
+Neoplasia,D,1,1,1,1,0.6
+Neoplasia,E,1,1,1,1,0.2
+Neoplasia,B,1,1,1,1,0.4
+Neoplasia,C,1,1,1,1,0.4
+Neoplasia,D,1,1,1,1,0.0
+Neoplasia,B,1,1,1,1,0.2
+Neoplasia,E,1,1,1,1,0.0
+Neoplasia,D,1,1,1,1,0.2
+Neoplasia,A,1,1,1,1,0.2
+Neoplasia,C,1,1,1,1,0.2
+Neoplasia,B,1,1,1,1,0.6
+Neoplasia,E,1,1,1,1,0.6
+Neoplasia,C,1,1,1,1,0.0
+Neoplasia,B,1,1,1,1,0.0
+Neoplasia,B,1,1,1,1,0.0
+Neoplasia,A,1,1,1,1,0.2
+Neoplasia,D,1,1,1,1,0.4
+Neoplasia,B,1,1,1,1,0.4
+Neoplasia,D,1,1,1,1,0.2
+Neoplasia,E,1,1,1,1,0.0
+Neoplasia,D,1,1,1,1,0.4
+Neoplasia,A,1,1,1,1,0.6
+Neoplasia,C,1,1,1,1,0.0
+Neoplasia,E,1,1,1,1,0.2
+Neoplasia,C,1,1,1,1,0.0
+Neoplasia,E,1,1,1,1,0.2
+Neoplasia,D,1,1,1,1,0.2
+Neoplasia,D,1,1,1,1,0.6
+Neoplasia,B,1,1,1,1,0.2
+Neoplasia,C,1,1,1,1,0.6
+Neoplasia,C,0,0,0,0,0.2
+Neoplasia,D,1,1,1,1,0.4
+Neoplasia,D,1,1,1,1,0.4
+Neoplasia,B,0,0,0,0,0.8
+Neoplasia,A,1,1,1,1,0.2
+Neoplasia,C,1,1,1,1,0.0
+Neoplasia,A,1,1,1,1,0.4
+Neoplasia,A,1,1,1,1,0.2
+Neoplasia,B,0,0,0,0,0.4

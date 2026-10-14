@@ -1,0 +1,901 @@
+cap,domain,correct,answer,c_seq,rounds,stop,in_tok,out_tok,cost
+1,Atherosclerosis,B,,0,1,hit_cap,2089,51,0.0009172000000000001
+1,Atherosclerosis,A,A,1,1,answered,1651,57,0.0007516000000000001
+1,Atherosclerosis,E,E,1,1,answered,1532,35,0.0006688
+1,Cardiovascular,C,,0,1,hit_cap,1503,55,0.0006892000000000001
+1,Cardiovascular,B,,0,1,hit_cap,1689,48,0.0007524000000000001
+1,Cardiovascular,C,,0,1,hit_cap,1835,42,0.0008012000000000001
+1,Cardiovascular,B,,0,1,hit_cap,1650,62,0.0007592000000000001
+1,cellular injury,D,,0,1,hit_cap,1462,42,0.000652
+1,cellular injury,D,,0,1,hit_cap,1671,43,0.0007372000000000001
+1,cellular injury,B,B,1,1,answered,1589,50,0.0007156
+1,cellular injury,C,B,0,1,answered,1810,55,0.000812
+1,Immunopathology,D,D,1,1,answered,1542,42,0.000684
+1,Immunopathology,B,,0,1,hit_cap,2089,54,0.0009220000000000001
+1,Immunopathology,A,A,1,1,answered,1651,78,0.0007852
+1,Inflammation,A,,0,1,answered,1793,120,0.0009092000000000001
+1,Neoplasia,D,A,0,1,answered,1580,42,0.0006992000000000001
+1,Neoplasia,D,D,1,1,answered,1629,49,0.00073
+1,Neoplasia,B,,0,1,hit_cap,1742,29,0.0007432000000000001
+1,Neoplasia,B,,0,1,hit_cap,1577,41,0.0006964
+1,Neoplasia,C,,0,1,answered,1889,120,0.0009476
+1,Neoplasia,D,A,0,1,answered,1610,36,0.0007016
+1,Atherosclerosis,A,A,1,1,answered,1646,54,0.0007448000000000001
+1,Atherosclerosis,D,D,1,1,answered,1726,50,0.0007704000000000001
+1,Atherosclerosis,C,,0,1,hit_cap,2139,53,0.0009404000000000001
+1,Atherosclerosis,E,,0,1,answered,1605,120,0.0008340000000000001
+1,Atherosclerosis,D,D,1,1,answered,1542,42,0.000684
+1,Atherosclerosis,D,,0,1,hit_cap,1775,91,0.0008556
+1,Atherosclerosis,D,D,1,1,answered,1924,50,0.0008496
+1,Atherosclerosis,E,E,1,1,answered,1605,49,0.0007204000000000002
+1,Atherosclerosis,B,B,1,1,answered,1921,48,0.0008452
+1,Atherosclerosis,D,D,1,1,answered,1549,51,0.0007012000000000001
+1,Atherosclerosis,C,,0,1,answered,2005,120,0.000994
+1,Atherosclerosis,E,,0,1,hit_cap,1741,42,0.0007636
+1,Atherosclerosis,A,A,1,1,answered,1794,88,0.0008584
+1,Atherosclerosis,A,,0,1,answered,2082,120,0.0010248000000000002
+1,Atherosclerosis,E,E,1,1,answered,1652,45,0.0007328
+1,Atherosclerosis,C,C,1,1,answered,1712,43,0.0007536000000000001
+1,Atherosclerosis,C,,0,1,hit_cap,2108,33,0.0008960000000000001
+1,Atherosclerosis,D,D,1,1,answered,1658,69,0.0007736
+1,Atherosclerosis,D,,0,1,answered,2039,120,0.0010076
+1,Atherosclerosis,B,,0,1,hit_cap,2218,55,0.0009752000000000001
+1,Atherosclerosis,B,,0,1,answered,1575,120,0.000822
+1,Atherosclerosis,A,A,1,1,answered,1636,43,0.0007232000000000001
+1,Atherosclerosis,E,E,1,1,answered,1759,71,0.0008172000000000001
+1,Atherosclerosis,B,B,1,1,answered,1662,44,0.0007352
+1,Atherosclerosis,A,A,1,1,answered,1616,63,0.0007472000000000002
+1,Atherosclerosis,D,D,1,1,answered,1871,60,0.0008444000000000001
+1,Atherosclerosis,B,B,1,1,answered,1861,63,0.0008452000000000002
+1,Atherosclerosis,E,,0,1,hit_cap,1991,66,0.000902
+1,Atherosclerosis,D,D,1,1,answered,1517,51,0.0006884
+1,Atherosclerosis,A,A,1,1,answered,1871,49,0.0008268000000000001
+1,Atherosclerosis,A,,0,1,hit_cap,1971,30,0.0008364000000000001
+1,Atherosclerosis,D,,0,1,hit_cap,1978,38,0.000852
+1,Atherosclerosis,D,D,1,1,answered,1748,46,0.0007728000000000001
+1,Atherosclerosis,C,C,1,1,answered,1563,51,0.0007068
+1,Atherosclerosis,B,,0,1,hit_cap,1591,36,0.0006940000000000001
+1,Atherosclerosis,C,C,1,1,answered,1585,30,0.000682
+1,Atherosclerosis,C,C,1,1,answered,1611,37,0.0007036000000000001
+1,Atherosclerosis,B,B,1,1,answered,1626,45,0.0007224000000000001
+1,Atherosclerosis,C,,0,1,hit_cap,1627,25,0.0006908000000000001
+1,Atherosclerosis,B,,0,1,hit_cap,1829,85,0.0008676000000000001
+1,Atherosclerosis,C,C,1,1,answered,1890,60,0.0008520000000000001
+1,Atherosclerosis,C,,0,1,hit_cap,2128,34,0.0009056000000000001
+1,Atherosclerosis,E,E,1,1,answered,1635,40,0.0007180000000000001
+1,Atherosclerosis,E,E,1,1,answered,1701,52,0.0007636
+1,Atherosclerosis,B,B,1,1,answered,1564,34,0.00068
+1,Atherosclerosis,C,C,1,1,answered,1705,43,0.0007508000000000001
+1,Atherosclerosis,E,,0,1,hit_cap,1519,31,0.0006572
+1,Cardiovascular,B,B,1,1,answered,1827,43,0.0007996000000000001
+1,Cardiovascular,C,C,1,1,answered,1542,55,0.0007048
+1,Cardiovascular,C,,0,1,hit_cap,1544,30,0.0006656
+1,Cardiovascular,C,C,1,1,answered,1480,89,0.0007344000000000001
+1,Cardiovascular,D,D,1,1,answered,1695,53,0.0007628000000000001
+1,Cardiovascular,D,,0,1,hit_cap,1824,44,0.0008
+1,Cardiovascular,B,B,1,1,answered,1736,62,0.0007936000000000001
+1,Cardiovascular,B,,0,1,hit_cap,1762,44,0.0007752000000000001
+1,Cardiovascular,D,,0,1,hit_cap,1561,43,0.0006932000000000002
+1,Cardiovascular,C,C,1,1,answered,2164,55,0.0009536000000000001
+1,Cardiovascular,E,E,1,1,answered,1811,50,0.0008044
+1,Cardiovascular,D,,0,1,hit_cap,1932,25,0.0008128
+1,Cardiovascular,D,D,1,1,answered,1639,42,0.0007228000000000001
+1,Cardiovascular,D,D,1,1,answered,1590,44,0.0007064
+1,Cardiovascular,A,A,1,1,answered,1616,40,0.0007104000000000001
+1,Cardiovascular,B,,0,1,hit_cap,2300,34,0.0009744
+1,Cardiovascular,C,C,1,1,answered,1557,42,0.0006900000000000001
+1,Cardiovascular,C,,0,1,hit_cap,1755,58,0.0007948
+1,Cardiovascular,E,,0,1,hit_cap,2292,32,0.0009680000000000001
+1,Cardiovascular,D,D,1,1,answered,1908,51,0.0008448000000000002
+1,Cardiovascular,D,D,1,1,answered,1677,56,0.0007604
+1,Cardiovascular,B,,0,1,hit_cap,1817,42,0.0007940000000000001
+1,Cardiovascular,A,,0,1,hit_cap,2228,22,0.0009264000000000001
+1,Cardiovascular,B,,0,1,hit_cap,1792,38,0.0007776
+1,Cardiovascular,C,,0,1,hit_cap,1628,31,0.0007008000000000001
+1,Cardiovascular,A,A,1,1,answered,1678,30,0.0007192
+1,Cardiovascular,B,B,1,1,answered,1521,30,0.0006564
+1,Cardiovascular,D,D,1,1,answered,1688,60,0.0007712000000000001
+1,Cardiovascular,A,A,1,1,answered,2090,43,0.0009048000000000001
+1,Cardiovascular,D,D,1,1,answered,1630,35,0.0007080000000000001
+1,Cardiovascular,E,,0,1,hit_cap,1675,31,0.0007196
+1,Cardiovascular,B,C,0,1,answered,1679,40,0.0007356000000000001
+1,Cardiovascular,E,A,0,1,answered,1674,120,0.0008616
+1,Cardiovascular,E,E,1,1,answered,1701,46,0.0007540000000000001
+1,Cardiovascular,B,,0,1,hit_cap,1797,37,0.000778
+1,Cardiovascular,A,A,1,1,answered,1925,41,0.0008356
+1,Cardiovascular,B,,0,1,hit_cap,1958,45,0.0008552000000000001
+1,Cardiovascular,D,D,1,1,answered,1589,66,0.0007412
+1,Cardiovascular,C,C,1,1,answered,1670,36,0.0007256000000000001
+1,Cardiovascular,E,,0,1,answered,1639,120,0.0008476000000000001
+1,Cardiovascular,E,,0,1,hit_cap,1679,67,0.0007788000000000001
+1,cellular injury,E,,0,1,hit_cap,1596,31,0.000688
+1,cellular injury,C,C,1,1,answered,1567,36,0.0006844
+1,cellular injury,D,D,1,1,answered,1487,51,0.0006764000000000001
+1,cellular injury,A,A,1,1,answered,1594,42,0.0007048000000000001
+1,cellular injury,C,C,1,1,answered,1537,32,0.0006660000000000001
+1,cellular injury,D,,0,1,hit_cap,1896,36,0.0008160000000000001
+1,cellular injury,E,E,1,1,answered,1588,46,0.0007088000000000001
+1,cellular injury,A,,0,1,answered,1827,120,0.0009228000000000001
+1,cellular injury,E,E,1,1,answered,1508,38,0.000664
+1,cellular injury,B,B,1,1,answered,1604,55,0.0007296000000000001
+1,cellular injury,B,B,1,1,answered,1600,33,0.0006928
+1,cellular injury,A,A,1,1,answered,1667,44,0.0007372
+1,cellular injury,C,,0,1,hit_cap,1570,40,0.0006920000000000001
+1,cellular injury,C,,0,1,hit_cap,1586,36,0.000692
+1,cellular injury,A,,0,1,hit_cap,2072,29,0.0008752000000000001
+1,cellular injury,A,,0,1,hit_cap,1668,51,0.0007488000000000001
+1,cellular injury,A,,0,1,hit_cap,1529,28,0.0006564
+1,cellular injury,E,E,1,1,answered,1654,62,0.0007608000000000001
+1,cellular injury,C,C,1,1,answered,1537,120,0.0008068000000000001
+1,cellular injury,C,C,1,1,answered,1555,36,0.0006796
+1,cellular injury,A,,0,1,answered,1484,120,0.0007856
+1,cellular injury,C,C,1,1,answered,1750,45,0.0007720000000000001
+1,cellular injury,A,A,1,1,answered,1939,101,0.0009372000000000001
+1,cellular injury,D,,0,1,hit_cap,1953,37,0.0008404
+1,cellular injury,C,C,1,1,answered,1490,44,0.0006664
+1,cellular injury,B,,0,1,hit_cap,1861,29,0.0007908000000000001
+1,cellular injury,A,A,1,1,answered,1629,49,0.00073
+1,cellular injury,D,D,1,1,answered,1555,50,0.000702
+1,cellular injury,B,B,1,1,answered,1768,45,0.0007792000000000001
+1,cellular injury,D,D,1,1,answered,1593,45,0.0007092000000000001
+1,cellular injury,C,,0,1,hit_cap,1517,31,0.0006564
+1,cellular injury,A,A,1,1,answered,1522,57,0.0007000000000000001
+1,cellular injury,B,B,1,1,answered,1623,49,0.0007276000000000001
+1,cellular injury,B,B,1,1,answered,1601,46,0.000714
+1,cellular injury,D,,0,1,hit_cap,1569,32,0.0006788000000000001
+1,cellular injury,B,B,1,1,answered,1637,35,0.0007108000000000001
+1,cellular injury,D,,0,1,hit_cap,1829,30,0.0007796000000000001
+1,cellular injury,D,D,1,1,answered,1605,45,0.0007140000000000001
+1,cellular injury,D,D,1,1,answered,1544,28,0.0006624000000000001
+1,cellular injury,D,,0,1,hit_cap,1567,32,0.0006780000000000001
+1,cellular injury,B,B,1,1,answered,1734,49,0.0007720000000000001
+1,cellular injury,A,A,1,1,answered,1589,48,0.0007124000000000001
+1,cellular injury,A,A,1,1,answered,1518,44,0.0006776
+1,cellular injury,C,C,1,1,answered,1482,42,0.0006600000000000001
+1,cellular injury,C,C,1,1,answered,1618,41,0.0007128
+1,cellular injury,A,A,1,1,answered,1752,29,0.0007472000000000001
+1,cellular injury,B,B,1,1,answered,1546,39,0.0006808000000000001
+1,cellular injury,E,E,1,1,answered,1641,40,0.0007204000000000001
+1,cellular injury,D,,0,1,hit_cap,2135,45,0.0009260000000000001
+1,cellular injury,E,E,1,1,answered,1554,50,0.0007016
+1,cellular injury,B,B,1,1,answered,1494,54,0.0006840000000000001
+1,Immunopathology,A,A,1,1,answered,1646,53,0.0007432000000000001
+1,Immunopathology,D,D,1,1,answered,1726,50,0.0007704000000000001
+1,Immunopathology,C,,0,1,hit_cap,2139,53,0.0009404000000000001
+1,Immunopathology,E,,0,1,hit_cap,1605,35,0.000698
+1,Immunopathology,D,,0,1,hit_cap,1775,91,0.0008556
+1,Immunopathology,D,,0,1,answered,1924,120,0.0009616000000000001
+1,Immunopathology,E,E,1,1,answered,1605,53,0.0007268000000000001
+1,Immunopathology,B,B,1,1,answered,1921,48,0.0008452
+1,Immunopathology,D,D,1,1,answered,1549,47,0.0006948000000000001
+1,Immunopathology,C,,0,1,answered,2005,120,0.000994
+1,Immunopathology,E,,0,1,hit_cap,1741,42,0.0007636
+1,Immunopathology,A,A,1,1,answered,1794,88,0.0008584
+1,Immunopathology,A,,0,1,answered,2082,120,0.0010248000000000002
+1,Immunopathology,E,E,1,1,answered,1652,51,0.0007424
+1,Immunopathology,C,C,1,1,answered,1712,43,0.0007536000000000001
+1,Immunopathology,C,,0,1,hit_cap,2108,34,0.0008976000000000001
+1,Immunopathology,D,D,1,1,answered,1658,69,0.0007736
+1,Immunopathology,D,,0,1,answered,2039,120,0.0010076
+1,Immunopathology,B,,0,1,hit_cap,2218,55,0.0009752000000000001
+1,Immunopathology,B,,0,1,answered,1575,120,0.000822
+1,Immunopathology,A,A,1,1,answered,1636,43,0.0007232000000000001
+1,Immunopathology,E,E,1,1,answered,1759,71,0.0008172000000000001
+1,Immunopathology,B,B,1,1,answered,1662,46,0.0007384
+1,Immunopathology,A,A,1,1,answered,1616,70,0.0007584000000000001
+1,Immunopathology,D,D,1,1,answered,1871,63,0.0008492
+1,Immunopathology,B,B,1,1,answered,1861,50,0.0008244000000000001
+1,Immunopathology,E,,0,1,hit_cap,1991,63,0.0008972000000000001
+1,Immunopathology,D,D,1,1,answered,1517,52,0.00069
+1,Immunopathology,A,A,1,1,answered,1871,49,0.0008268000000000001
+1,Immunopathology,A,,0,1,hit_cap,1971,34,0.0008428000000000001
+1,Immunopathology,D,,0,1,hit_cap,1978,32,0.0008424000000000001
+1,Immunopathology,D,D,1,1,answered,1748,46,0.0007728000000000001
+1,Immunopathology,C,C,1,1,answered,1563,51,0.0007068
+1,Immunopathology,B,,0,1,hit_cap,1591,36,0.0006940000000000001
+1,Immunopathology,C,C,1,1,answered,1585,30,0.000682
+1,Immunopathology,C,C,1,1,answered,1611,40,0.0007084000000000001
+1,Immunopathology,B,B,1,1,answered,1626,45,0.0007224000000000001
+1,Immunopathology,C,,0,1,hit_cap,1627,25,0.0006908000000000001
+1,Immunopathology,B,,0,1,hit_cap,1829,70,0.0008436000000000001
+1,Immunopathology,C,C,1,1,answered,1890,112,0.0009352000000000001
+1,Immunopathology,C,,0,1,hit_cap,2128,34,0.0009056000000000001
+1,Immunopathology,E,E,1,1,answered,1635,41,0.0007196
+1,Immunopathology,E,E,1,1,answered,1532,35,0.0006688
+1,Immunopathology,E,E,1,1,answered,1701,51,0.0007620000000000001
+1,Immunopathology,B,B,1,1,answered,1564,34,0.00068
+1,Immunopathology,C,C,1,1,answered,1705,43,0.0007508000000000001
+1,Immunopathology,E,,0,1,hit_cap,1520,43,0.0006768000000000001
+1,Inflammation,D,D,1,1,answered,1680,47,0.0007472000000000001
+1,Inflammation,C,C,1,1,answered,1591,38,0.0006972
+1,Inflammation,B,B,1,1,answered,1467,43,0.0006556000000000001
+1,Inflammation,E,E,1,1,answered,1575,39,0.0006924
+1,Inflammation,B,B,1,1,answered,1578,41,0.0006968
+1,Inflammation,E,E,1,1,answered,1565,39,0.0006884
+1,Inflammation,B,B,1,1,answered,1682,41,0.0007384000000000001
+1,Inflammation,D,D,1,1,answered,1552,46,0.0006944
+1,Inflammation,A,A,1,1,answered,1569,50,0.0007076000000000001
+1,Inflammation,E,,0,1,answered,1592,120,0.0008288000000000001
+1,Inflammation,E,D,0,1,answered,1526,43,0.0006792000000000001
+1,Inflammation,B,B,1,1,answered,1620,42,0.0007152
+1,Inflammation,C,C,1,1,answered,1640,30,0.000704
+1,Inflammation,D,D,1,1,answered,1565,28,0.0006708
+1,Inflammation,A,A,1,1,answered,1616,45,0.0007184000000000001
+1,Inflammation,E,E,1,1,answered,1721,48,0.0007652000000000001
+1,Inflammation,C,,0,1,answered,1593,120,0.0008292000000000001
+1,Inflammation,E,E,1,1,answered,1530,36,0.0006696
+1,Inflammation,A,A,1,1,answered,1706,46,0.0007560000000000002
+1,Inflammation,D,D,1,1,answered,1610,48,0.0007208000000000001
+1,Inflammation,D,D,1,1,answered,1661,57,0.0007556000000000002
+1,Inflammation,B,B,1,1,answered,1521,120,0.0008004
+1,Inflammation,E,E,1,1,answered,1620,51,0.0007296000000000001
+1,Inflammation,B,,0,1,hit_cap,1875,29,0.0007964000000000001
+1,Inflammation,A,A,1,1,answered,1546,31,0.0006680000000000001
+1,Inflammation,E,E,1,1,answered,1580,46,0.0007056
+1,Inflammation,C,C,1,1,answered,1608,32,0.0006944000000000001
+1,Inflammation,D,,0,1,hit_cap,1628,27,0.0006944000000000001
+1,Inflammation,C,C,1,1,answered,1683,49,0.0007516000000000001
+1,Inflammation,C,,0,1,hit_cap,1511,28,0.0006492000000000001
+1,Inflammation,C,,0,1,hit_cap,1512,23,0.0006416000000000001
+1,Inflammation,D,,0,1,hit_cap,1413,33,0.0006180000000000001
+1,Inflammation,A,,0,1,answered,1926,120,0.0009624000000000001
+1,Inflammation,C,C,1,1,answered,1433,32,0.0006244000000000001
+1,Inflammation,C,C,1,1,answered,1700,53,0.0007648
+1,Inflammation,A,,0,1,hit_cap,1528,49,0.0006896000000000001
+1,Inflammation,B,B,1,1,answered,1626,31,0.0007000000000000001
+1,Inflammation,E,E,1,1,answered,1511,42,0.0006716000000000001
+1,Inflammation,C,C,1,1,answered,1620,36,0.0007056
+1,Neoplasia,A,A,1,1,answered,1873,41,0.0008148000000000001
+1,Neoplasia,D,,0,1,hit_cap,1715,26,0.0007276000000000001
+1,Neoplasia,D,D,1,1,answered,1614,37,0.0007048000000000001
+1,Neoplasia,E,,0,1,hit_cap,1763,51,0.0007868
+1,Neoplasia,C,C,1,1,answered,1610,33,0.0006968
+1,Neoplasia,E,E,1,1,answered,1518,37,0.0006664
+1,Neoplasia,E,E,1,1,answered,1851,46,0.000814
+1,Neoplasia,C,C,1,1,answered,1627,40,0.0007148000000000001
+1,Neoplasia,B,B,1,1,answered,1614,28,0.0006904000000000001
+1,Neoplasia,E,,0,1,answered,1663,120,0.0008572
+1,Neoplasia,C,C,1,1,answered,1802,66,0.0008264
+1,Neoplasia,C,,0,1,hit_cap,1702,62,0.0007800000000000001
+1,Neoplasia,A,A,1,1,answered,1635,35,0.0007100000000000001
+1,Neoplasia,A,A,1,1,answered,1499,37,0.0006588000000000001
+1,Neoplasia,B,B,1,1,answered,1679,41,0.0007372
+1,Neoplasia,D,D,1,1,answered,1566,44,0.0006968
+1,Neoplasia,E,,0,1,answered,1564,120,0.0008176
+1,Neoplasia,B,B,1,1,answered,1584,25,0.0006736
+1,Neoplasia,C,C,1,1,answered,1494,33,0.0006504000000000001
+1,Neoplasia,D,D,1,1,answered,1672,47,0.0007440000000000001
+1,Neoplasia,B,,0,1,answered,1727,120,0.0008828000000000001
+1,Neoplasia,E,E,1,1,answered,1612,34,0.0006992000000000001
+1,Neoplasia,D,,0,1,hit_cap,1506,42,0.0006696
+1,Neoplasia,A,A,1,1,answered,1777,52,0.000794
+1,Neoplasia,C,C,1,1,answered,1741,44,0.0007668
+1,Neoplasia,B,B,1,1,answered,1548,48,0.0006960000000000001
+1,Neoplasia,E,E,1,1,answered,1614,104,0.0008120000000000001
+1,Neoplasia,C,C,1,1,answered,1576,120,0.0008224
+1,Neoplasia,B,B,1,1,answered,1649,120,0.0008516000000000001
+1,Neoplasia,B,,0,1,hit_cap,1941,39,0.0008388000000000001
+1,Neoplasia,A,A,1,1,answered,1517,32,0.0006580000000000001
+1,Neoplasia,D,,0,1,hit_cap,1564,40,0.0006896000000000001
+1,Neoplasia,B,,0,1,hit_cap,1753,54,0.0007876000000000001
+1,Neoplasia,D,,0,1,hit_cap,1577,36,0.0006884
+1,Neoplasia,E,,0,1,hit_cap,1595,25,0.000678
+1,Neoplasia,D,,0,1,hit_cap,1609,34,0.000698
+1,Neoplasia,A,A,1,1,answered,1723,37,0.0007484000000000001
+1,Neoplasia,C,,0,1,hit_cap,1836,35,0.0007904000000000001
+1,Neoplasia,E,,0,1,answered,1589,120,0.0008276000000000001
+1,Neoplasia,C,C,1,1,answered,1849,30,0.0007876000000000001
+1,Neoplasia,E,E,1,1,answered,1584,34,0.000688
+1,Neoplasia,D,,0,1,hit_cap,1670,43,0.0007368000000000001
+1,Neoplasia,D,D,1,1,answered,1679,30,0.0007196
+1,Neoplasia,B,B,1,1,answered,1709,120,0.0008756
+1,Neoplasia,C,C,1,1,answered,1526,50,0.0006904000000000001
+1,Neoplasia,C,A,0,1,answered,1742,120,0.0008888
+1,Neoplasia,D,D,1,1,answered,1482,41,0.0006584000000000001
+1,Neoplasia,D,,0,1,hit_cap,1620,40,0.0007120000000000001
+1,Neoplasia,B,,0,1,hit_cap,1485,25,0.000634
+1,Neoplasia,A,A,1,1,answered,1547,34,0.0006732000000000001
+1,Neoplasia,C,,0,1,hit_cap,1652,41,0.0007264
+1,Neoplasia,A,A,1,1,answered,1663,49,0.0007436000000000001
+1,Neoplasia,A,,0,1,hit_cap,1615,49,0.0007244
+1,Neoplasia,B,A,0,1,answered,1517,28,0.0006516
+2,Atherosclerosis,B,,0,2,hit_cap,3922,101,0.0017304000000000002
+2,Atherosclerosis,A,A,1,1,answered,1651,59,0.0007548
+2,Atherosclerosis,E,E,1,1,answered,1532,35,0.0006688
+2,Cardiovascular,C,C,1,2,answered,2993,97,0.0013524000000000001
+2,Cardiovascular,B,,0,2,hit_cap,3418,89,0.0015096
+2,Cardiovascular,C,,0,2,answered,3488,164,0.0016576000000000002
+2,Cardiovascular,B,D,0,2,answered,3177,114,0.0014532000000000002
+2,cellular injury,D,A,0,2,answered,3056,94,0.0013728
+2,cellular injury,D,,0,2,hit_cap,3396,86,0.0014960000000000002
+2,cellular injury,B,B,1,1,answered,1589,50,0.0007156
+2,cellular injury,C,C,1,1,answered,1810,66,0.0008296
+2,Immunopathology,D,D,1,1,answered,1542,42,0.000684
+2,Immunopathology,B,,0,2,hit_cap,3922,103,0.0017336000000000003
+2,Immunopathology,A,A,1,1,answered,1651,56,0.00075
+2,Inflammation,A,,0,1,answered,1793,120,0.0009092000000000001
+2,Neoplasia,D,A,0,1,answered,1580,40,0.0006960000000000001
+2,Neoplasia,D,D,1,1,answered,1629,49,0.00073
+2,Neoplasia,B,,0,2,hit_cap,3549,63,0.0015204
+2,Neoplasia,B,,0,2,hit_cap,3068,82,0.0013584
+2,Neoplasia,C,D,0,1,answered,1889,64,0.000858
+2,Neoplasia,D,A,0,1,answered,1610,34,0.0006984000000000001
+2,Atherosclerosis,A,A,1,1,answered,1646,53,0.0007432000000000001
+2,Atherosclerosis,D,D,1,1,answered,1726,50,0.0007704000000000001
+2,Atherosclerosis,C,,0,2,hit_cap,4155,114,0.0018444000000000002
+2,Atherosclerosis,E,E,1,2,answered,3230,102,0.0014552000000000002
+2,Atherosclerosis,D,D,1,1,answered,1542,42,0.000684
+2,Atherosclerosis,D,,0,2,hit_cap,3588,154,0.0016816000000000001
+2,Atherosclerosis,D,,0,1,answered,1924,120,0.0009616000000000001
+2,Atherosclerosis,E,E,1,1,answered,1605,47,0.0007172000000000001
+2,Atherosclerosis,B,B,1,1,answered,1921,48,0.0008452
+2,Atherosclerosis,D,D,1,1,answered,1549,47,0.0006948000000000001
+2,Atherosclerosis,C,,0,1,answered,2005,120,0.000994
+2,Atherosclerosis,E,,0,2,hit_cap,3521,79,0.0015348000000000002
+2,Atherosclerosis,A,A,1,1,answered,1794,88,0.0008584
+2,Atherosclerosis,A,,0,1,answered,2082,120,0.0010248000000000002
+2,Atherosclerosis,E,E,1,1,answered,1652,43,0.0007296000000000001
+2,Atherosclerosis,C,C,1,1,answered,1712,43,0.0007536000000000001
+2,Atherosclerosis,C,C,1,2,answered,3706,93,0.0016312
+2,Atherosclerosis,D,D,1,1,answered,1658,69,0.0007736
+2,Atherosclerosis,D,,0,1,answered,2039,120,0.0010076
+2,Atherosclerosis,B,,0,2,hit_cap,4449,106,0.0019492
+2,Atherosclerosis,B,,0,1,answered,1575,120,0.000822
+2,Atherosclerosis,A,A,1,1,answered,1636,43,0.0007232000000000001
+2,Atherosclerosis,E,E,1,1,answered,1759,71,0.0008172000000000001
+2,Atherosclerosis,B,B,1,1,answered,1662,44,0.0007352
+2,Atherosclerosis,A,A,1,1,answered,1616,62,0.0007456000000000001
+2,Atherosclerosis,D,D,1,1,answered,1871,61,0.0008460000000000001
+2,Atherosclerosis,B,B,1,1,answered,1861,50,0.0008244000000000001
+2,Atherosclerosis,E,,0,2,hit_cap,3855,115,0.001726
+2,Atherosclerosis,D,D,1,1,answered,1517,52,0.00069
+2,Atherosclerosis,A,A,1,1,answered,1871,49,0.0008268000000000001
+2,Atherosclerosis,A,,0,2,hit_cap,3824,66,0.0016352
+2,Atherosclerosis,D,,0,2,hit_cap,3629,63,0.0015524000000000002
+2,Atherosclerosis,D,D,1,1,answered,1748,46,0.0007728000000000001
+2,Atherosclerosis,C,C,1,1,answered,1563,51,0.0007068
+2,Atherosclerosis,B,,0,2,hit_cap,3298,73,0.0014360000000000002
+2,Atherosclerosis,C,C,1,1,answered,1585,30,0.000682
+2,Atherosclerosis,C,C,1,1,answered,1611,40,0.0007084000000000001
+2,Atherosclerosis,B,B,1,1,answered,1626,45,0.0007224000000000001
+2,Atherosclerosis,C,,0,2,hit_cap,3254,53,0.0013864000000000003
+2,Atherosclerosis,B,,0,2,hit_cap,3745,162,0.0017572000000000002
+2,Atherosclerosis,C,C,1,1,answered,1890,112,0.0009352000000000001
+2,Atherosclerosis,C,C,1,2,answered,3813,81,0.0016548
+2,Atherosclerosis,E,E,1,1,answered,1635,39,0.0007164000000000001
+2,Atherosclerosis,E,E,1,1,answered,1701,51,0.0007620000000000001
+2,Atherosclerosis,B,B,1,1,answered,1564,39,0.000688
+2,Atherosclerosis,C,C,1,1,answered,1705,43,0.0007508000000000001
+2,Atherosclerosis,E,E,1,2,answered,3051,89,0.0013628000000000002
+2,Cardiovascular,B,B,1,1,answered,1827,43,0.0007996000000000001
+2,Cardiovascular,C,C,1,1,answered,1542,55,0.0007048
+2,Cardiovascular,C,,0,2,hit_cap,3075,81,0.0013596000000000003
+2,Cardiovascular,C,C,1,1,answered,1480,46,0.0006656000000000001
+2,Cardiovascular,D,D,1,1,answered,1695,56,0.0007676000000000001
+2,Cardiovascular,D,,0,2,hit_cap,3399,94,0.00151
+2,Cardiovascular,B,B,1,1,answered,1736,62,0.0007936000000000001
+2,Cardiovascular,B,B,1,2,answered,3587,133,0.0016476000000000001
+2,Cardiovascular,D,,0,2,hit_cap,3122,86,0.0013864000000000003
+2,Cardiovascular,C,C,1,1,answered,2164,53,0.0009504000000000001
+2,Cardiovascular,E,,0,1,answered,1811,120,0.0009164
+2,Cardiovascular,D,D,1,2,answered,3515,76,0.0015276
+2,Cardiovascular,D,D,1,1,answered,1639,42,0.0007228000000000001
+2,Cardiovascular,D,D,1,1,answered,1590,44,0.0007064
+2,Cardiovascular,A,A,1,1,answered,1616,49,0.0007248
+2,Cardiovascular,B,B,1,2,answered,4285,99,0.0018724000000000002
+2,Cardiovascular,C,C,1,1,answered,1557,42,0.0006900000000000001
+2,Cardiovascular,C,C,1,2,answered,3504,177,0.0016848
+2,Cardiovascular,E,,0,2,hit_cap,4584,93,0.0019824
+2,Cardiovascular,D,D,1,1,answered,1908,51,0.0008448000000000002
+2,Cardiovascular,D,D,1,1,answered,1677,56,0.0007604
+2,Cardiovascular,B,,0,2,hit_cap,3500,78,0.0015248000000000002
+2,Cardiovascular,A,,0,2,answered,3845,153,0.0017828000000000002
+2,Cardiovascular,B,,0,2,answered,3517,147,0.0016420000000000002
+2,Cardiovascular,C,,0,2,hit_cap,3128,64,0.0013536000000000002
+2,Cardiovascular,A,A,1,1,answered,1678,45,0.0007432000000000001
+2,Cardiovascular,B,B,1,1,answered,1521,43,0.0006772000000000001
+2,Cardiovascular,D,D,1,1,answered,1688,60,0.0007712000000000001
+2,Cardiovascular,A,A,1,1,answered,2090,55,0.000924
+2,Cardiovascular,D,D,1,1,answered,1630,35,0.0007080000000000001
+2,Cardiovascular,E,E,1,1,answered,1675,33,0.0007228
+2,Cardiovascular,B,C,0,1,answered,1679,44,0.000742
+2,Cardiovascular,E,,0,1,answered,1674,120,0.0008616
+2,Cardiovascular,E,E,1,1,answered,1701,46,0.0007540000000000001
+2,Cardiovascular,B,,0,2,hit_cap,3574,75,0.0015496000000000002
+2,Cardiovascular,A,A,1,1,answered,1925,41,0.0008356
+2,Cardiovascular,B,B,1,2,answered,3726,105,0.0016584000000000002
+2,Cardiovascular,D,D,1,1,answered,1589,53,0.0007204000000000001
+2,Cardiovascular,C,C,1,1,answered,1670,36,0.0007256000000000001
+2,Cardiovascular,E,,0,2,answered,3246,166,0.001564
+2,Cardiovascular,E,,0,2,hit_cap,3244,141,0.0015232000000000002
+2,cellular injury,E,E,1,2,answered,3183,67,0.0013804000000000002
+2,cellular injury,C,C,1,1,answered,1567,36,0.0006844
+2,cellular injury,D,D,1,1,answered,1487,45,0.0006668
+2,cellular injury,A,A,1,1,answered,1594,41,0.0007032000000000001
+2,cellular injury,C,C,1,1,answered,1537,33,0.0006676000000000001
+2,cellular injury,D,,0,2,answered,3855,156,0.0017916000000000002
+2,cellular injury,E,E,1,1,answered,1588,46,0.0007088000000000001
+2,cellular injury,A,A,1,1,answered,1827,112,0.0009100000000000001
+2,cellular injury,E,E,1,1,answered,1508,38,0.000664
+2,cellular injury,B,B,1,1,answered,1604,58,0.0007344000000000001
+2,cellular injury,B,B,1,1,answered,1600,38,0.0007008
+2,cellular injury,A,A,1,1,answered,1667,44,0.0007372
+2,cellular injury,C,C,1,2,answered,3104,76,0.0013632
+2,cellular injury,C,C,1,1,answered,1586,28,0.0006792
+2,cellular injury,A,A,1,2,answered,3605,61,0.0015396000000000001
+2,cellular injury,A,A,1,2,answered,3171,98,0.0014252000000000002
+2,cellular injury,A,,0,2,hit_cap,3042,64,0.0013192000000000002
+2,cellular injury,E,E,1,1,answered,1654,62,0.0007608000000000001
+2,cellular injury,C,C,1,1,answered,1537,38,0.0006756
+2,cellular injury,C,C,1,1,answered,1555,36,0.0006796
+2,cellular injury,A,,0,2,hit_cap,2964,87,0.0013248000000000001
+2,cellular injury,C,C,1,1,answered,1750,46,0.0007736000000000002
+2,cellular injury,A,A,1,1,answered,1939,109,0.0009500000000000001
+2,cellular injury,D,,0,2,hit_cap,3660,100,0.001624
+2,cellular injury,C,C,1,1,answered,1490,53,0.0006808000000000001
+2,cellular injury,B,B,1,2,answered,3575,93,0.0015788
+2,cellular injury,A,A,1,1,answered,1629,49,0.00073
+2,cellular injury,D,D,1,1,answered,1555,45,0.0006940000000000001
+2,cellular injury,B,B,1,1,answered,1768,45,0.0007792000000000001
+2,cellular injury,D,D,1,1,answered,1593,46,0.0007108000000000001
+2,cellular injury,C,,0,2,hit_cap,3151,65,0.0013644
+2,cellular injury,A,A,1,1,answered,1522,59,0.0007032000000000001
+2,cellular injury,B,B,1,1,answered,1623,48,0.0007260000000000001
+2,cellular injury,B,B,1,1,answered,1601,46,0.000714
+2,cellular injury,D,D,1,1,answered,1569,41,0.0006932
+2,cellular injury,B,B,1,1,answered,1637,36,0.0007124000000000001
+2,cellular injury,D,,0,2,answered,3699,154,0.001726
+2,cellular injury,D,D,1,1,answered,1605,45,0.0007140000000000001
+2,cellular injury,D,D,1,1,answered,1544,36,0.0006752
+2,cellular injury,D,,0,1,answered,1567,120,0.0008188000000000001
+2,cellular injury,B,B,1,1,answered,1734,44,0.000764
+2,cellular injury,A,A,1,1,answered,1589,49,0.000714
+2,cellular injury,A,A,1,1,answered,1518,44,0.0006776
+2,cellular injury,C,C,1,1,answered,1482,42,0.0006600000000000001
+2,cellular injury,C,C,1,1,answered,1618,39,0.0007096
+2,cellular injury,A,A,1,1,answered,1752,36,0.0007584
+2,cellular injury,B,B,1,1,answered,1546,39,0.0006808000000000001
+2,cellular injury,E,E,1,1,answered,1641,40,0.0007204000000000001
+2,cellular injury,D,,0,2,hit_cap,4174,87,0.0018088000000000002
+2,cellular injury,E,E,1,1,answered,1554,50,0.0007016
+2,cellular injury,B,B,1,1,answered,1494,35,0.0006536000000000001
+2,Immunopathology,A,A,1,1,answered,1646,53,0.0007432000000000001
+2,Immunopathology,D,D,1,1,answered,1726,60,0.0007864
+2,Immunopathology,C,,0,2,hit_cap,4277,124,0.0019092000000000002
+2,Immunopathology,E,,0,2,hit_cap,3230,155,0.0015400000000000001
+2,Immunopathology,D,,0,2,hit_cap,3588,153,0.0016800000000000003
+2,Immunopathology,D,,0,1,answered,1924,120,0.0009616000000000001
+2,Immunopathology,E,E,1,1,answered,1605,49,0.0007204000000000002
+2,Immunopathology,B,B,1,1,answered,1921,56,0.000858
+2,Immunopathology,D,D,1,1,answered,1549,51,0.0007012000000000001
+2,Immunopathology,C,C,1,1,answered,2005,120,0.000994
+2,Immunopathology,E,,0,2,hit_cap,3521,84,0.0015428000000000002
+2,Immunopathology,A,A,1,1,answered,1794,88,0.0008584
+2,Immunopathology,A,,0,1,answered,2082,120,0.0010248000000000002
+2,Immunopathology,E,E,1,1,answered,1652,120,0.0008528
+2,Immunopathology,C,C,1,1,answered,1712,43,0.0007536000000000001
+2,Immunopathology,C,C,1,2,answered,3706,90,0.0016264
+2,Immunopathology,D,D,1,1,answered,1658,69,0.0007736
+2,Immunopathology,D,,0,1,answered,2039,120,0.0010076
+2,Immunopathology,B,,0,2,hit_cap,4449,110,0.0019556
+2,Immunopathology,B,,0,1,answered,1575,120,0.000822
+2,Immunopathology,A,A,1,1,answered,1636,43,0.0007232000000000001
+2,Immunopathology,E,E,1,1,answered,1759,71,0.0008172000000000001
+2,Immunopathology,B,B,1,1,answered,1662,44,0.0007352
+2,Immunopathology,A,A,1,1,answered,1616,59,0.0007408000000000001
+2,Immunopathology,D,D,1,1,answered,1871,60,0.0008444000000000001
+2,Immunopathology,B,B,1,1,answered,1861,50,0.0008244000000000001
+2,Immunopathology,E,,0,2,hit_cap,3855,109,0.0017164000000000003
+2,Immunopathology,D,D,1,1,answered,1517,53,0.0006916
+2,Immunopathology,A,A,1,1,answered,1871,49,0.0008268000000000001
+2,Immunopathology,A,,0,2,hit_cap,3828,60,0.0016272
+2,Immunopathology,D,,0,2,hit_cap,3658,67,0.0015704000000000002
+2,Immunopathology,D,D,1,1,answered,1748,46,0.0007728000000000001
+2,Immunopathology,C,C,1,1,answered,1563,51,0.0007068
+2,Immunopathology,B,B,1,2,answered,3298,155,0.0015672000000000001
+2,Immunopathology,C,C,1,1,answered,1585,30,0.000682
+2,Immunopathology,C,C,1,1,answered,1611,40,0.0007084000000000001
+2,Immunopathology,B,B,1,1,answered,1626,45,0.0007224000000000001
+2,Immunopathology,C,,0,2,answered,3254,145,0.0015336000000000002
+2,Immunopathology,B,,0,2,hit_cap,3745,164,0.0017604000000000003
+2,Immunopathology,C,C,1,1,answered,1890,112,0.0009352000000000001
+2,Immunopathology,C,C,1,2,answered,3817,73,0.0016436
+2,Immunopathology,E,E,1,1,answered,1635,40,0.0007180000000000001
+2,Immunopathology,E,E,1,1,answered,1532,35,0.0006688
+2,Immunopathology,E,E,1,1,answered,1701,52,0.0007636
+2,Immunopathology,B,B,1,1,answered,1564,34,0.00068
+2,Immunopathology,C,C,1,1,answered,1705,43,0.0007508000000000001
+2,Immunopathology,E,,0,2,hit_cap,3060,73,0.0013408
+2,Inflammation,D,D,1,1,answered,1680,48,0.0007488000000000001
+2,Inflammation,C,C,1,1,answered,1591,37,0.0006956000000000001
+2,Inflammation,B,B,1,1,answered,1467,43,0.0006556000000000001
+2,Inflammation,E,E,1,1,answered,1575,39,0.0006924
+2,Inflammation,B,B,1,1,answered,1578,41,0.0006968
+2,Inflammation,E,E,1,1,answered,1565,39,0.0006884
+2,Inflammation,B,B,1,1,answered,1682,42,0.0007400000000000001
+2,Inflammation,D,D,1,1,answered,1552,46,0.0006944
+2,Inflammation,A,A,1,1,answered,1569,50,0.0007076000000000001
+2,Inflammation,E,E,1,1,answered,1592,44,0.0007072000000000001
+2,Inflammation,E,D,0,1,answered,1526,43,0.0006792000000000001
+2,Inflammation,B,B,1,1,answered,1620,40,0.0007120000000000001
+2,Inflammation,C,C,1,1,answered,1640,37,0.0007152
+2,Inflammation,D,D,1,1,answered,1565,39,0.0006884
+2,Inflammation,A,A,1,1,answered,1616,45,0.0007184000000000001
+2,Inflammation,E,E,1,1,answered,1721,48,0.0007652000000000001
+2,Inflammation,C,,0,1,answered,1593,120,0.0008292000000000001
+2,Inflammation,E,E,1,1,answered,1530,37,0.0006712
+2,Inflammation,A,A,1,1,answered,1706,49,0.0007608000000000001
+2,Inflammation,D,D,1,1,answered,1610,32,0.0006952000000000001
+2,Inflammation,D,D,1,1,answered,1661,59,0.0007588000000000001
+2,Inflammation,B,,0,1,answered,1521,120,0.0008004
+2,Inflammation,E,E,1,1,answered,1620,51,0.0007296000000000001
+2,Inflammation,B,B,1,2,answered,3462,87,0.0015240000000000002
+2,Inflammation,A,A,1,1,answered,1546,34,0.0006728000000000001
+2,Inflammation,E,E,1,1,answered,1580,51,0.0007136000000000001
+2,Inflammation,C,C,1,1,answered,1608,36,0.0007008
+2,Inflammation,D,,0,2,hit_cap,3120,55,0.0013360000000000002
+2,Inflammation,C,C,1,1,answered,1683,36,0.0007308000000000001
+2,Inflammation,C,,0,2,hit_cap,3086,69,0.0013448000000000002
+2,Inflammation,C,,0,2,hit_cap,3041,51,0.0012980000000000001
+2,Inflammation,D,,0,2,hit_cap,2866,63,0.0012472000000000002
+2,Inflammation,A,,0,1,answered,1926,120,0.0009624000000000001
+2,Inflammation,C,C,1,1,answered,1433,32,0.0006244000000000001
+2,Inflammation,C,C,1,1,answered,1700,60,0.000776
+2,Inflammation,A,A,1,2,answered,3054,93,0.0013704000000000001
+2,Inflammation,B,B,1,1,answered,1626,31,0.0007000000000000001
+2,Inflammation,E,E,1,1,answered,1511,42,0.0006716000000000001
+2,Inflammation,C,C,1,1,answered,1620,36,0.0007056
+2,Neoplasia,A,,0,1,answered,1873,120,0.0009412000000000001
+2,Neoplasia,D,,0,2,hit_cap,3451,73,0.0014972000000000002
+2,Neoplasia,D,D,1,1,answered,1614,37,0.0007048000000000001
+2,Neoplasia,E,,0,2,hit_cap,3249,66,0.0014052000000000001
+2,Neoplasia,C,C,1,1,answered,1610,33,0.0006968
+2,Neoplasia,E,E,1,1,answered,1518,37,0.0006664
+2,Neoplasia,E,E,1,1,answered,1851,51,0.0008220000000000001
+2,Neoplasia,C,C,1,2,answered,3366,95,0.0014984000000000002
+2,Neoplasia,B,B,1,1,answered,1614,28,0.0006904000000000001
+2,Neoplasia,E,,0,1,answered,1663,120,0.0008572
+2,Neoplasia,C,C,1,1,answered,1802,67,0.0008280000000000001
+2,Neoplasia,C,,0,2,hit_cap,3316,106,0.0014960000000000002
+2,Neoplasia,A,A,1,1,answered,1635,37,0.0007132000000000001
+2,Neoplasia,A,A,1,1,answered,1499,41,0.0006652
+2,Neoplasia,B,B,1,1,answered,1679,38,0.0007324
+2,Neoplasia,D,D,1,1,answered,1566,44,0.0006968
+2,Neoplasia,E,,0,1,answered,1564,120,0.0008176
+2,Neoplasia,B,B,1,1,answered,1584,31,0.0006832
+2,Neoplasia,C,C,1,1,answered,1494,48,0.0006744000000000001
+2,Neoplasia,D,D,1,1,answered,1672,47,0.0007440000000000001
+2,Neoplasia,B,,0,2,hit_cap,3348,94,0.0014896
+2,Neoplasia,E,E,1,1,answered,1612,28,0.0006896000000000001
+2,Neoplasia,D,,0,2,hit_cap,3059,87,0.0013628
+2,Neoplasia,A,A,1,1,answered,1777,52,0.000794
+2,Neoplasia,C,C,1,1,answered,1741,36,0.000754
+2,Neoplasia,B,B,1,1,answered,1548,48,0.0006960000000000001
+2,Neoplasia,E,E,1,1,answered,1614,98,0.0008024000000000001
+2,Neoplasia,C,C,1,1,answered,1576,58,0.0007232
+2,Neoplasia,B,B,1,1,answered,1649,120,0.0008516000000000001
+2,Neoplasia,B,,0,2,hit_cap,3815,83,0.0016588000000000002
+2,Neoplasia,A,A,1,1,answered,1517,31,0.0006564
+2,Neoplasia,D,D,1,2,answered,3110,71,0.0013576
+2,Neoplasia,B,B,1,2,answered,3515,103,0.0015708000000000002
+2,Neoplasia,D,C,0,2,answered,3193,64,0.0013796000000000001
+2,Neoplasia,E,E,1,2,answered,3378,76,0.0014728
+2,Neoplasia,D,,0,2,hit_cap,3218,68,0.001396
+2,Neoplasia,A,A,1,1,answered,1723,35,0.0007452000000000001
+2,Neoplasia,C,,0,2,hit_cap,3439,67,0.0014828
+2,Neoplasia,E,,0,2,answered,3199,240,0.0016636
+2,Neoplasia,C,C,1,1,answered,1849,30,0.0007876000000000001
+2,Neoplasia,E,E,1,1,answered,1584,34,0.000688
+2,Neoplasia,D,D,1,2,answered,3344,108,0.0015104000000000003
+2,Neoplasia,D,D,1,1,answered,1679,30,0.0007196
+2,Neoplasia,B,B,1,1,answered,1709,120,0.0008756
+2,Neoplasia,C,C,1,1,answered,1526,50,0.0006904000000000001
+2,Neoplasia,C,A,0,1,answered,1742,120,0.0008888
+2,Neoplasia,D,D,1,1,answered,1482,41,0.0006584000000000001
+2,Neoplasia,D,D,1,2,answered,3240,72,0.0014112
+2,Neoplasia,B,,0,2,hit_cap,2982,50,0.0012728000000000001
+2,Neoplasia,A,A,1,1,answered,1547,34,0.0006732000000000001
+2,Neoplasia,C,,0,2,answered,3281,161,0.00157
+2,Neoplasia,A,A,1,1,answered,1663,48,0.000742
+2,Neoplasia,A,A,1,2,answered,3238,87,0.0014344000000000002
+2,Neoplasia,B,A,0,1,answered,1517,28,0.0006516
+3,Atherosclerosis,B,,0,3,hit_cap,5755,153,0.0025468
+3,Atherosclerosis,A,A,1,1,answered,1651,59,0.0007548
+3,Atherosclerosis,E,E,1,1,answered,1532,35,0.0006688
+3,Cardiovascular,C,C,1,2,answered,2993,102,0.0013604
+3,Cardiovascular,B,B,1,2,answered,3464,101,0.0015472
+3,Cardiovascular,C,,0,3,answered,5141,213,0.0023972000000000004
+3,Cardiovascular,B,D,0,2,answered,3177,182,0.001562
+3,cellular injury,D,A,0,2,answered,3056,97,0.0013776
+3,cellular injury,D,,0,3,hit_cap,5121,132,0.0022596
+3,cellular injury,B,B,1,1,answered,1589,63,0.0007364000000000001
+3,cellular injury,C,C,1,1,answered,1810,75,0.000844
+3,Immunopathology,D,D,1,1,answered,1542,42,0.000684
+3,Immunopathology,B,,0,3,hit_cap,5755,147,0.0025372000000000003
+3,Immunopathology,A,A,1,1,answered,1651,55,0.0007484
+3,Inflammation,A,,0,1,answered,1793,120,0.0009092000000000001
+3,Neoplasia,D,A,0,1,answered,1580,40,0.0006960000000000001
+3,Neoplasia,D,D,1,1,answered,1629,38,0.0007124
+3,Neoplasia,B,,0,3,hit_cap,5259,84,0.0022380000000000004
+3,Neoplasia,B,,0,3,hit_cap,4559,123,0.0020204000000000003
+3,Neoplasia,C,D,0,1,answered,1889,58,0.0008484
+3,Neoplasia,D,A,0,1,answered,1610,34,0.0006984000000000001
+3,Atherosclerosis,A,A,1,1,answered,1646,54,0.0007448000000000001
+3,Atherosclerosis,D,D,1,1,answered,1726,50,0.0007704000000000001
+3,Atherosclerosis,C,,0,3,hit_cap,6324,179,0.0028160000000000004
+3,Atherosclerosis,E,,0,2,answered,3230,155,0.0015400000000000001
+3,Atherosclerosis,D,D,1,1,answered,1542,42,0.000684
+3,Atherosclerosis,D,,0,1,answered,1775,120,0.000902
+3,Atherosclerosis,D,,0,1,answered,1924,120,0.0009616000000000001
+3,Atherosclerosis,E,E,1,1,answered,1605,47,0.0007172000000000001
+3,Atherosclerosis,B,B,1,1,answered,1921,48,0.0008452
+3,Atherosclerosis,D,D,1,1,answered,1549,47,0.0006948000000000001
+3,Atherosclerosis,C,C,1,1,answered,2005,120,0.000994
+3,Atherosclerosis,E,,0,3,hit_cap,5217,125,0.0022868000000000003
+3,Atherosclerosis,A,A,1,1,answered,1794,88,0.0008584
+3,Atherosclerosis,A,,0,1,answered,2082,120,0.0010248000000000002
+3,Atherosclerosis,E,E,1,1,answered,1652,43,0.0007296000000000001
+3,Atherosclerosis,C,C,1,1,answered,1712,43,0.0007536000000000001
+3,Atherosclerosis,C,C,1,2,answered,3706,93,0.0016312
+3,Atherosclerosis,D,D,1,1,answered,1658,69,0.0007736
+3,Atherosclerosis,D,,0,1,answered,2039,120,0.0010076
+3,Atherosclerosis,B,,0,3,hit_cap,6680,165,0.0029360000000000002
+3,Atherosclerosis,B,,0,1,answered,1575,120,0.000822
+3,Atherosclerosis,A,A,1,1,answered,1636,46,0.0007280000000000001
+3,Atherosclerosis,E,E,1,1,answered,1759,71,0.0008172000000000001
+3,Atherosclerosis,B,B,1,1,answered,1662,47,0.00074
+3,Atherosclerosis,A,A,1,1,answered,1616,70,0.0007584000000000001
+3,Atherosclerosis,D,D,1,1,answered,1871,59,0.0008428000000000001
+3,Atherosclerosis,B,B,1,1,answered,1861,62,0.0008436000000000001
+3,Atherosclerosis,E,,0,3,hit_cap,5719,156,0.0025372000000000003
+3,Atherosclerosis,D,D,1,1,answered,1517,52,0.00069
+3,Atherosclerosis,A,A,1,1,answered,1871,49,0.0008268000000000001
+3,Atherosclerosis,A,,0,3,hit_cap,5681,101,0.0024340000000000004
+3,Atherosclerosis,D,,0,3,hit_cap,5802,71,0.0024344
+3,Atherosclerosis,D,D,1,1,answered,1748,46,0.0007728000000000001
+3,Atherosclerosis,C,C,1,1,answered,1563,51,0.0007068
+3,Atherosclerosis,B,,0,3,hit_cap,5050,110,0.002196
+3,Atherosclerosis,C,C,1,1,answered,1585,30,0.000682
+3,Atherosclerosis,C,C,1,1,answered,1611,40,0.0007084000000000001
+3,Atherosclerosis,B,B,1,1,answered,1626,45,0.0007224000000000001
+3,Atherosclerosis,C,,0,3,hit_cap,4881,75,0.0020724000000000003
+3,Atherosclerosis,B,,0,3,hit_cap,5746,236,0.0026760000000000004
+3,Atherosclerosis,C,C,1,1,answered,1890,115,0.0009400000000000001
+3,Atherosclerosis,C,C,1,2,answered,3813,75,0.0016452000000000003
+3,Atherosclerosis,E,E,1,1,answered,1635,40,0.0007180000000000001
+3,Atherosclerosis,E,E,1,1,answered,1701,51,0.0007620000000000001
+3,Atherosclerosis,B,B,1,1,answered,1564,34,0.00068
+3,Atherosclerosis,C,C,1,1,answered,1705,43,0.0007508000000000001
+3,Atherosclerosis,E,E,1,2,answered,3051,80,0.0013484000000000002
+3,Cardiovascular,B,B,1,1,answered,1827,45,0.0008028000000000001
+3,Cardiovascular,C,C,1,1,answered,1542,46,0.0006904000000000001
+3,Cardiovascular,C,,0,3,answered,4619,215,0.0021916
+3,Cardiovascular,C,C,1,1,answered,1480,93,0.0007408000000000001
+3,Cardiovascular,D,D,1,1,answered,1695,56,0.0007676000000000001
+3,Cardiovascular,D,,0,3,hit_cap,5034,147,0.0022488000000000005
+3,Cardiovascular,B,B,1,1,answered,1736,62,0.0007936000000000001
+3,Cardiovascular,B,B,1,3,answered,4993,133,0.00221
+3,Cardiovascular,D,,0,3,hit_cap,4683,129,0.0020796
+3,Cardiovascular,C,C,1,1,answered,2164,53,0.0009504000000000001
+3,Cardiovascular,E,E,1,1,answered,1811,74,0.0008428000000000001
+3,Cardiovascular,D,,0,1,answered,1932,120,0.0009648
+3,Cardiovascular,D,D,1,1,answered,1639,42,0.0007228000000000001
+3,Cardiovascular,D,D,1,1,answered,1590,44,0.0007064
+3,Cardiovascular,A,A,1,1,answered,1616,42,0.0007136000000000001
+3,Cardiovascular,B,,0,2,answered,4285,154,0.0019604
+3,Cardiovascular,C,C,1,1,answered,1557,42,0.0006900000000000001
+3,Cardiovascular,C,C,1,2,answered,3504,177,0.0016848
+3,Cardiovascular,E,,0,3,hit_cap,6843,114,0.0029196000000000005
+3,Cardiovascular,D,D,1,1,answered,1908,51,0.0008448000000000002
+3,Cardiovascular,D,D,1,1,answered,1677,59,0.0007652000000000001
+3,Cardiovascular,B,,0,3,hit_cap,5202,131,0.0022904
+3,Cardiovascular,A,,0,2,answered,3988,142,0.0018224000000000003
+3,Cardiovascular,B,B,1,2,answered,3517,149,0.0016452
+3,Cardiovascular,C,C,1,2,answered,3128,89,0.0013936
+3,Cardiovascular,A,A,1,1,answered,1678,45,0.0007432000000000001
+3,Cardiovascular,B,B,1,1,answered,1521,30,0.0006564
+3,Cardiovascular,D,D,1,1,answered,1688,60,0.0007712000000000001
+3,Cardiovascular,A,A,1,1,answered,2090,43,0.0009048000000000001
+3,Cardiovascular,D,D,1,1,answered,1630,35,0.0007080000000000001
+3,Cardiovascular,E,E,1,1,answered,1675,33,0.0007228
+3,Cardiovascular,B,C,0,1,answered,1679,44,0.000742
+3,Cardiovascular,E,,0,1,answered,1674,120,0.0008616
+3,Cardiovascular,E,E,1,1,answered,1701,46,0.0007540000000000001
+3,Cardiovascular,B,,0,3,hit_cap,5351,114,0.0023228000000000003
+3,Cardiovascular,A,A,1,1,answered,1925,41,0.0008356
+3,Cardiovascular,B,B,1,2,answered,3726,105,0.0016584000000000002
+3,Cardiovascular,D,D,1,1,answered,1589,53,0.0007204000000000001
+3,Cardiovascular,C,C,1,1,answered,1670,36,0.0007256000000000001
+3,Cardiovascular,E,,0,2,answered,3246,166,0.001564
+3,Cardiovascular,E,,0,3,answered,4939,229,0.0023420000000000003
+3,cellular injury,E,E,1,2,answered,3183,71,0.0013868
+3,cellular injury,C,C,1,1,answered,1567,38,0.0006876
+3,cellular injury,D,D,1,1,answered,1487,51,0.0006764000000000001
+3,cellular injury,A,A,1,1,answered,1594,41,0.0007032000000000001
+3,cellular injury,C,C,1,1,answered,1537,33,0.0006676000000000001
+3,cellular injury,D,D,1,2,answered,3581,115,0.0016164
+3,cellular injury,E,E,1,1,answered,1588,46,0.0007088000000000001
+3,cellular injury,A,A,1,1,answered,1827,112,0.0009100000000000001
+3,cellular injury,E,E,1,1,answered,1508,36,0.0006608
+3,cellular injury,B,B,1,1,answered,1604,55,0.0007296000000000001
+3,cellular injury,B,B,1,1,answered,1600,32,0.0006912000000000001
+3,cellular injury,A,A,1,1,answered,1667,44,0.0007372
+3,cellular injury,C,C,1,2,answered,3104,77,0.0013648
+3,cellular injury,C,E,0,2,answered,3175,91,0.0014156000000000001
+3,cellular injury,A,,0,3,hit_cap,5767,73,0.0024236
+3,cellular injury,A,A,1,2,answered,3171,98,0.0014252000000000002
+3,cellular injury,A,,0,3,hit_cap,4535,100,0.001974
+3,cellular injury,E,E,1,1,answered,1654,62,0.0007608000000000001
+3,cellular injury,C,,0,1,answered,1537,120,0.0008068000000000001
+3,cellular injury,C,C,1,1,answered,1555,37,0.0006812000000000001
+3,cellular injury,A,,0,3,answered,4452,207,0.002112
+3,cellular injury,C,C,1,1,answered,1750,46,0.0007736000000000002
+3,cellular injury,A,A,1,1,answered,1939,102,0.0009388
+3,cellular injury,D,A,0,2,answered,3746,87,0.0016376000000000003
+3,cellular injury,C,C,1,1,answered,1490,53,0.0006808000000000001
+3,cellular injury,B,B,1,2,answered,3575,89,0.0015724
+3,cellular injury,A,A,1,1,answered,1629,48,0.0007284
+3,cellular injury,D,D,1,1,answered,1555,54,0.0007084000000000001
+3,cellular injury,B,B,1,1,answered,1768,45,0.0007792000000000001
+3,cellular injury,D,D,1,1,answered,1593,45,0.0007092000000000001
+3,cellular injury,C,,0,3,hit_cap,4785,99,0.0020724000000000003
+3,cellular injury,A,A,1,1,answered,1522,37,0.0006680000000000001
+3,cellular injury,B,B,1,1,answered,1623,47,0.0007244
+3,cellular injury,B,B,1,1,answered,1601,46,0.000714
+3,cellular injury,D,D,1,2,answered,3140,69,0.0013664000000000003
+3,cellular injury,B,B,1,1,answered,1637,37,0.0007140000000000001
+3,cellular injury,D,D,1,2,answered,3609,98,0.0016004
+3,cellular injury,D,D,1,1,answered,1605,45,0.0007140000000000001
+3,cellular injury,D,D,1,1,answered,1544,28,0.0006624000000000001
+3,cellular injury,D,D,1,2,answered,3129,64,0.0013540000000000002
+3,cellular injury,B,B,1,1,answered,1734,48,0.0007704000000000001
+3,cellular injury,A,A,1,1,answered,1589,48,0.0007124000000000001
+3,cellular injury,A,A,1,1,answered,1518,45,0.0006792
+3,cellular injury,C,C,1,1,answered,1482,42,0.0006600000000000001
+3,cellular injury,C,C,1,1,answered,1618,39,0.0007096
+3,cellular injury,A,A,1,1,answered,1752,36,0.0007584
+3,cellular injury,B,B,1,1,answered,1546,39,0.0006808000000000001
+3,cellular injury,E,E,1,1,answered,1641,42,0.0007236
+3,cellular injury,D,,0,3,hit_cap,6213,132,0.0026964000000000003
+3,cellular injury,E,E,1,1,answered,1554,50,0.0007016
+3,cellular injury,B,B,1,1,answered,1494,36,0.0006552000000000001
+3,Immunopathology,A,A,1,1,answered,1646,54,0.0007448000000000001
+3,Immunopathology,D,D,1,1,answered,1726,42,0.0007576000000000001
+3,Immunopathology,C,,0,3,hit_cap,6423,176,0.0028508
+3,Immunopathology,E,,0,2,answered,3230,155,0.0015400000000000001
+3,Immunopathology,D,D,1,1,answered,1775,120,0.000902
+3,Immunopathology,D,,0,1,answered,1924,120,0.0009616000000000001
+3,Immunopathology,E,E,1,1,answered,1605,47,0.0007172000000000001
+3,Immunopathology,B,B,1,1,answered,1921,47,0.0008436
+3,Immunopathology,D,D,1,1,answered,1549,51,0.0007012000000000001
+3,Immunopathology,C,C,1,1,answered,2005,120,0.000994
+3,Immunopathology,E,,0,3,hit_cap,5217,125,0.0022868000000000003
+3,Immunopathology,A,A,1,1,answered,1794,87,0.0008568000000000001
+3,Immunopathology,A,,0,1,answered,2082,120,0.0010248000000000002
+3,Immunopathology,E,E,1,1,answered,1652,51,0.0007424
+3,Immunopathology,C,C,1,1,answered,1712,43,0.0007536000000000001
+3,Immunopathology,C,C,1,2,answered,3703,80,0.0016092000000000003
+3,Immunopathology,D,D,1,1,answered,1658,69,0.0007736
+3,Immunopathology,D,,0,1,answered,2039,120,0.0010076
+3,Immunopathology,B,B,1,3,answered,6665,226,0.0030276000000000005
+3,Immunopathology,B,,0,1,answered,1575,120,0.000822
+3,Immunopathology,A,A,1,1,answered,1636,46,0.0007280000000000001
+3,Immunopathology,E,E,1,1,answered,1759,67,0.0008108000000000001
+3,Immunopathology,B,B,1,1,answered,1662,48,0.0007416
+3,Immunopathology,A,A,1,1,answered,1616,70,0.0007584000000000001
+3,Immunopathology,D,D,1,1,answered,1871,60,0.0008444000000000001
+3,Immunopathology,B,B,1,1,answered,1861,62,0.0008436000000000001
+3,Immunopathology,E,,0,3,hit_cap,5719,151,0.0025292000000000005
+3,Immunopathology,D,D,1,1,answered,1517,52,0.00069
+3,Immunopathology,A,A,1,1,answered,1871,49,0.0008268000000000001
+3,Immunopathology,A,,0,3,hit_cap,5750,92,0.0024472000000000005
+3,Immunopathology,D,,0,3,hit_cap,5306,95,0.0022744
+3,Immunopathology,D,D,1,1,answered,1748,46,0.0007728000000000001
+3,Immunopathology,C,C,1,1,answered,1563,51,0.0007068
+3,Immunopathology,B,A,0,2,answered,3298,156,0.0015688000000000002
+3,Immunopathology,C,C,1,1,answered,1585,30,0.000682
+3,Immunopathology,C,C,1,1,answered,1611,40,0.0007084000000000001
+3,Immunopathology,B,B,1,1,answered,1626,45,0.0007224000000000001
+3,Immunopathology,C,,0,3,hit_cap,4881,89,0.0020948000000000004
+3,Immunopathology,B,,0,3,hit_cap,5477,187,0.00249
+3,Immunopathology,C,C,1,1,answered,1890,112,0.0009352000000000001
+3,Immunopathology,C,C,1,2,answered,3813,81,0.0016548
+3,Immunopathology,E,E,1,1,answered,1635,39,0.0007164000000000001
+3,Immunopathology,E,E,1,1,answered,1532,35,0.0006688
+3,Immunopathology,E,E,1,1,answered,1701,51,0.0007620000000000001
+3,Immunopathology,B,B,1,1,answered,1564,34,0.00068
+3,Immunopathology,C,C,1,1,answered,1705,43,0.0007508000000000001
+3,Immunopathology,E,,0,2,answered,3053,163,0.0014820000000000002
+3,Inflammation,D,D,1,1,answered,1680,47,0.0007472000000000001
+3,Inflammation,C,C,1,1,answered,1591,37,0.0006956000000000001
+3,Inflammation,B,B,1,1,answered,1467,43,0.0006556000000000001
+3,Inflammation,E,E,1,1,answered,1575,39,0.0006924
+3,Inflammation,B,B,1,1,answered,1578,41,0.0006968
+3,Inflammation,E,E,1,1,answered,1565,49,0.0007044
+3,Inflammation,B,B,1,1,answered,1682,41,0.0007384000000000001
+3,Inflammation,D,D,1,1,answered,1552,46,0.0006944
+3,Inflammation,A,A,1,1,answered,1569,46,0.0007012000000000001
+3,Inflammation,E,E,1,1,answered,1592,55,0.0007248
+3,Inflammation,E,D,0,1,answered,1526,44,0.0006808000000000001
+3,Inflammation,B,B,1,1,answered,1620,40,0.0007120000000000001
+3,Inflammation,C,C,1,1,answered,1640,30,0.000704
+3,Inflammation,D,D,1,1,answered,1565,39,0.0006884
+3,Inflammation,A,A,1,1,answered,1616,45,0.0007184000000000001
+3,Inflammation,E,E,1,1,answered,1721,48,0.0007652000000000001
+3,Inflammation,C,,0,1,answered,1593,120,0.0008292000000000001
+3,Inflammation,E,E,1,1,answered,1530,37,0.0006712
+3,Inflammation,A,A,1,1,answered,1706,46,0.0007560000000000002
+3,Inflammation,D,D,1,1,answered,1610,45,0.0007160000000000001
+3,Inflammation,D,D,1,1,answered,1661,57,0.0007556000000000002
+3,Inflammation,B,,0,1,answered,1521,120,0.0008004
+3,Inflammation,E,E,1,1,answered,1620,51,0.0007296000000000001
+3,Inflammation,B,B,1,2,answered,3462,87,0.0015240000000000002
+3,Inflammation,A,A,1,1,answered,1546,34,0.0006728000000000001
+3,Inflammation,E,E,1,1,answered,1580,46,0.0007056
+3,Inflammation,C,C,1,1,answered,1608,36,0.0007008
+3,Inflammation,D,,0,3,hit_cap,4612,84,0.0019792000000000004
+3,Inflammation,C,C,1,1,answered,1683,36,0.0007308000000000001
+3,Inflammation,C,,0,3,hit_cap,4578,100,0.0019912000000000003
+3,Inflammation,C,,0,3,hit_cap,4582,74,0.0019512000000000002
+3,Inflammation,D,,0,3,hit_cap,4306,93,0.0018712000000000002
+3,Inflammation,A,,0,1,answered,1926,120,0.0009624000000000001
+3,Inflammation,C,C,1,1,answered,1433,32,0.0006244000000000001
+3,Inflammation,C,C,1,1,answered,1700,51,0.0007616000000000001
+3,Inflammation,A,A,1,2,answered,3081,82,0.0013636
+3,Inflammation,B,B,1,1,answered,1626,31,0.0007000000000000001
+3,Inflammation,E,E,1,1,answered,1511,42,0.0006716000000000001
+3,Inflammation,C,C,1,1,answered,1620,50,0.000728
+3,Neoplasia,A,,0,1,answered,1873,120,0.0009412000000000001
+3,Neoplasia,D,,0,3,hit_cap,5166,100,0.0022264000000000003
+3,Neoplasia,D,D,1,1,answered,1614,36,0.0007032000000000001
+3,Neoplasia,E,,0,3,answered,4735,187,0.0021932
+3,Neoplasia,C,C,1,1,answered,1610,33,0.0006968
+3,Neoplasia,E,E,1,1,answered,1518,41,0.0006728
+3,Neoplasia,E,E,1,1,answered,1851,51,0.0008220000000000001
+3,Neoplasia,C,C,1,2,answered,3366,95,0.0014984000000000002
+3,Neoplasia,B,B,1,1,answered,1614,120,0.0008376000000000001
+3,Neoplasia,E,,0,1,answered,1663,120,0.0008572
+3,Neoplasia,C,C,1,1,answered,1802,67,0.0008280000000000001
+3,Neoplasia,C,,0,3,hit_cap,4930,150,0.0022120000000000004
+3,Neoplasia,A,A,1,1,answered,1635,37,0.0007132000000000001
+3,Neoplasia,A,A,1,1,answered,1499,37,0.0006588000000000001
+3,Neoplasia,B,B,1,1,answered,1679,35,0.0007276000000000001
+3,Neoplasia,D,D,1,1,answered,1566,49,0.0007048
+3,Neoplasia,E,,0,1,answered,1564,120,0.0008176
+3,Neoplasia,B,B,1,1,answered,1584,31,0.0006832
+3,Neoplasia,C,C,1,1,answered,1494,48,0.0006744000000000001
+3,Neoplasia,D,D,1,1,answered,1672,46,0.0007424
+3,Neoplasia,B,,0,2,answered,3348,164,0.0016016000000000001
+3,Neoplasia,E,E,1,1,answered,1612,28,0.0006896000000000001
+3,Neoplasia,D,,0,3,hit_cap,4625,144,0.0020804
+3,Neoplasia,A,A,1,1,answered,1777,52,0.000794
+3,Neoplasia,C,C,1,1,answered,1741,41,0.000762
+3,Neoplasia,B,B,1,1,answered,1548,48,0.0006960000000000001
+3,Neoplasia,E,E,1,1,answered,1614,108,0.0008184000000000002
+3,Neoplasia,C,C,1,1,answered,1576,58,0.0007232
+3,Neoplasia,B,,0,1,answered,1649,120,0.0008516000000000001
+3,Neoplasia,B,,0,3,hit_cap,5839,132,0.0025468
+3,Neoplasia,A,A,1,1,answered,1517,31,0.0006564
+3,Neoplasia,D,D,1,2,answered,3122,81,0.0013784000000000001
+3,Neoplasia,B,B,1,2,answered,3515,103,0.0015708000000000002
+3,Neoplasia,D,D,1,2,answered,3193,115,0.0014612000000000002
+3,Neoplasia,E,E,1,2,answered,3378,76,0.0014728
+3,Neoplasia,D,,0,3,hit_cap,4827,102,0.002094
+3,Neoplasia,A,A,1,1,answered,1723,35,0.0007452000000000001
+3,Neoplasia,C,,0,3,hit_cap,5013,104,0.0021716000000000005
+3,Neoplasia,E,,0,1,answered,1589,120,0.0008276000000000001
+3,Neoplasia,C,C,1,1,answered,1849,30,0.0007876000000000001
+3,Neoplasia,E,E,1,1,answered,1584,34,0.000688
+3,Neoplasia,D,D,1,2,answered,3356,92,0.0014896000000000002
+3,Neoplasia,D,D,1,1,answered,1679,30,0.0007196
+3,Neoplasia,B,B,1,1,answered,1709,120,0.0008756
+3,Neoplasia,C,C,1,1,answered,1526,49,0.0006888
+3,Neoplasia,C,,0,1,answered,1742,120,0.0008888
+3,Neoplasia,D,D,1,1,answered,1482,41,0.0006584000000000001
+3,Neoplasia,D,D,1,2,answered,3226,86,0.0014280000000000002
+3,Neoplasia,B,,0,3,hit_cap,4479,75,0.0019116000000000003
+3,Neoplasia,A,A,1,1,answered,1547,48,0.0006956000000000001
+3,Neoplasia,C,C,1,2,answered,3261,83,0.0014372
+3,Neoplasia,A,A,1,1,answered,1663,49,0.0007436000000000001
+3,Neoplasia,A,,0,3,hit_cap,4845,111,0.0021156000000000005
+3,Neoplasia,B,A,0,1,answered,1517,28,0.0006516
