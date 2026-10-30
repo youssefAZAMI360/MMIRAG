@@ -1,0 +1,32 @@
+  98248c80 sp    original call matched: True | forced answer C (key D)
+  98248c80 dec   original call matched: True | forced answer C (key D)
+  606aa4ad norag original call matched: True | forced answer None (key A)
+  606aa4ad sp    original call matched: True | forced answer None (key A)
+  606aa4ad dec   original call matched: True | forced answer None (key A)
+  996f1f8f norag original call matched: True | forced answer D (key B)
+  d544bca5 norag original call matched: True | forced answer A (key A)
+  d544bca5 sp    original call matched: True | forced answer None (key A)
+  55c6dd5b sp    original call matched: True | forced answer A (key A)
+  55c6dd5b dec   original call matched: True | forced answer A (key A)
+  a09ccfd1 norag original call matched: True | forced answer A (key A)
+  b27b122f sp    original call matched: True | forced answer A (key C)
+  087f3716 dec   original call matched: True | forced answer A (key A)
+  4ee92340 sp    original call matched: True | forced answer B (key B)
+  4ee92340 dec   original call matched: True | forced answer B (key B)
+  ff795fa5 norag original call matched: True | forced answer B (key C)
+  1bba25d9 norag original call matched: True | forced answer B (key B)
+  ebec8acd norag original call matched: True | forced answer A (key A)
+  ebec8acd sp    original call matched: True | forced answer A (key A)
+  r3_gpt-4.1-mini_medmcqa.jsonl: accuracy with the follow-up answers: norag 0.892, sp 0.877, dec 0.887, ragseq 0.898
+    ragseq vs sp: 34 gained, 13 lost, exact McNemar p = 0.0031
+    ragseq vs norag: 31 gained, 25 lost, exact McNemar p = 0.5044
+    sp vs norag: 20 gained, 35 lost, exact McNemar p = 0.0581
+    ragseq vs dec: 28 gained, 17 lost, exact McNemar p = 0.1352
+  r3B_faithfulness_primary.jsonl: 250 questions; context rebuilt exactly for 250
+  justification judged supported: 234/250 = 93.6%
+  wrong answers: 17, of which judged supported: 10 = 58.8%
+  r3B_faithfulness_medmcqa.jsonl: 1000 questions; context rebuilt exactly for 1000
+  justification judged supported: 968/1000 = 96.8%
+  wrong answers: 102, of which judged supported: 89 = 87.3%
+
+Spent on runs A and B: US$0.57 (US$8.30 in total). Saved in MMIRAG_R3 on Drive: r3A_forced_answers_medmcqa.jsonl, r3B_faithfulness_primary.jsonl, r3B_faithfulness_medmcqa.jsonl, api_cache_runs_A_B.jsonl, r3_runs_A_B_summary.txt

@@ -1,0 +1,9 @@
+reader,contrast,diff_pp,gained,lost,p,p_holm
+gpt-4.1-mini / primary,Prompt effect: RAG-SEQ 1 round vs single-pass,0.8,2,0,0.5,1.0
+gpt-4.1-mini / primary,Iteration effect: cap 3 vs 1 round,1.6,4,0,0.125,1.0
+gpt-4.1-mini / primary,cap 2 vs 1 round,1.6,4,0,0.125,1.0
+gpt-4.1-mini / primary,Decoupled loop vs single-pass (same answer prompt),1.2,4,1,0.375,1.0
+gpt-4.1-mini / primary,Coupled (RAG-SEQ) vs decoupled stopping,1.2,4,1,0.375,1.0
+gpt-4.1-mini / primary,RAG-SEQ vs No-RAG,1.2,6,3,0.5078125,1.0
+gpt-4.1-mini / primary,Single-pass vs No-RAG,-1.2,3,6,0.5078125,1.0
+gpt-4.1-mini / primary,Decoupled vs No-RAG,0.0,6,6,1.0,1.0

@@ -1,0 +1,250 @@
+{"id": "P157_201", "domain": "Inflammation", "flags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P083_120", "domain": "Cellular Injury", "flags": [1, 1, 1, 1, 1, 1, 1, 0, 0, 0]}
+{"id": "P225_274", "domain": "Neoplasia", "flags": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"id": "P154_198", "domain": "Immunopathology", "flags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P198_244", "domain": "Neoplasia", "flags": [1, 1, 1, 1, 0, 0, 0, 1, 0, 1]}
+{"id": "P092_131", "domain": "Cellular Injury", "flags": [1, 0, 0, 1, 1, 0, 0, 0, 0, 0]}
+{"id": "P161_205", "domain": "Inflammation", "flags": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"id": "P122_164", "domain": "Immunopathology", "flags": [1, 0, 0, 0, 1, 1, 0, 0, 0, 0]}
+{"id": "P155_199", "domain": "Immunopathology", "flags": [1, 1, 1, 0, 1, 1, 1, 1, 0, 1]}
+{"id": "P063_100", "domain": "Cellular Injury", "flags": [1, 1, 1, 1, 1, 0, 0, 0, 0, 0]}
+{"id": "P073_110", "domain": "Cellular Injury", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P218_266", "domain": "Neoplasia", "flags": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"id": "P108_148", "domain": "Cellular Injury", "flags": [1, 1, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"id": "P231_281", "domain": "Neoplasia", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P186_230", "domain": "Inflammation", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P116_158", "domain": "Immunopathology", "flags": [1, 1, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"id": "P139_183", "domain": "Immunopathology", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P203_249", "domain": "Neoplasia", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P156_200", "domain": "Immunopathology", "flags": [1, 1, 1, 1, 0, 0, 1, 0, 0, 1]}
+{"id": "P152_196", "domain": "Immunopathology", "flags": [1, 1, 1, 0, 1, 1, 1, 0, 1, 0]}
+{"id": "P045_80", "domain": "Cardiovascular", "flags": [1, 1, 0, 0, 0, 1, 1, 1, 1, 0]}
+{"id": "P237_287", "domain": "Neoplasia", "flags": [1, 0, 0, 0, 0, 1, 0, 0, 0, 1]}
+{"id": "P111_152", "domain": "Immunopathology", "flags": [1, 0, 1, 1, 1, 1, 0, 1, 1, 0]}
+{"id": "P096_136", "domain": "Cellular Injury", "flags": [0, 1, 1, 0, 0, 1, 0, 1, 0, 0]}
+{"id": "P090_129", "domain": "Cellular Injury", "flags": [1, 1, 1, 1, 1, 1, 1, 1, 0, 0]}
+{"id": "P150_194", "domain": "Immunopathology", "flags": [0, 0, 1, 0, 1, 0, 0, 0, 0, 0]}
+{"id": "P008_155", "domain": "Immunopathology", "flags": [1, 1, 1, 0, 1, 0, 1, 0, 0, 0]}
+{"id": "P037_71", "domain": "Cardiovascular", "flags": [0, 0, 0, 1, 1, 0, 0, 0, 0, 0]}
+{"id": "P194_238", "domain": "Inflammation", "flags": [0, 0, 0, 1, 1, 0, 0, 0, 0, 0]}
+{"id": "P204_250", "domain": "Neoplasia", "flags": [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]}
+{"id": "P055_92", "domain": "Cardiovascular", "flags": [1, 1, 1, 0, 1, 0, 1, 0, 0, 1]}
+{"id": "P076_113", "domain": "Cellular Injury", "flags": [1, 1, 1, 0, 1, 1, 1, 1, 0, 0]}
+{"id": "P110_151", "domain": "Immunopathology", "flags": [1, 0, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P173_217", "domain": "Inflammation", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P166_210", "domain": "Inflammation", "flags": [0, 0, 1, 0, 0, 0, 0, 1, 0, 0]}
+{"id": "P130_173", "domain": "Immunopathology", "flags": [1, 0, 0, 1, 1, 0, 0, 0, 0, 0]}
+{"id": "P136_180", "domain": "Immunopathology", "flags": [1, 0, 0, 0, 0, 0, 0, 1, 0, 0]}
+{"id": "P118_160", "domain": "Immunopathology", "flags": [1, 1, 1, 1, 1, 1, 0, 0, 1, 1]}
+{"id": "P126_169", "domain": "Immunopathology", "flags": [1, 0, 1, 1, 1, 0, 1, 0, 0, 0]}
+{"id": "P005_125", "domain": "Cellular Injury", "flags": [1, 0, 0, 0, 0, 1, 0, 0, 0, 1]}
+{"id": "P012_254", "domain": "Neoplasia", "flags": [0, 0, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"id": "P022_55", "domain": "Cardiovascular", "flags": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}
+{"id": "P107_147", "domain": "Cellular Injury", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P176_220", "domain": "Inflammation", "flags": [1, 1, 1, 0, 0, 1, 1, 1, 1, 1]}
+{"id": "P089_128", "domain": "Cellular Injury", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "P044_79", "domain": "Cardiovascular", "flags": [1, 0, 1, 1, 0, 1, 1, 1, 0, 0]}
+{"id": "P179_223", "domain": "Inflammation", "flags": [1, 1, 0, 1, 0, 1, 0, 0, 0, 1]}
+{"id": "P097_137", "domain": "Cellular Injury", "flags": [1, 1, 1, 1, 0, 1, 1, 1, 0, 0]}
+{"id": "P162_206", "domain": "Inflammation", "flags": [1, 1, 1, 1, 1, 0, 1, 0, 1, 1]}
+{"id": "P064_101", "domain": "Cellular Injury", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P071_108", "domain": "Cellular Injury", "flags": [0, 0, 0, 1, 1, 1, 1, 0, 0, 0]}
+{"id": "P160_204", "domain": "Inflammation", "flags": [0, 1, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P059_96", "domain": "Cellular Injury", "flags": [0, 1, 1, 1, 0, 1, 1, 1, 0, 1]}
+{"id": "P101_141", "domain": "Cellular Injury", "flags": [1, 1, 0, 0, 0, 1, 0, 0, 0, 1]}
+{"id": "P229_278", "domain": "Neoplasia", "flags": [1, 1, 0, 0, 1, 1, 0, 1, 0, 0]}
+{"id": "P075_112", "domain": "Cellular Injury", "flags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P180_224", "domain": "Inflammation", "flags": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"id": "P018_51", "domain": "Cardiovascular", "flags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P188_232", "domain": "Inflammation", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "P015_280", "domain": "Neoplasia", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P007_149", "domain": "Cellular Injury", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P074_111", "domain": "Cellular Injury", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "P217_265", "domain": "Neoplasia", "flags": [1, 1, 1, 0, 0, 1, 1, 1, 0, 1]}
+{"id": "P227_276", "domain": "Neoplasia", "flags": [1, 0, 1, 0, 0, 0, 1, 0, 0, 0]}
+{"id": "P181_225", "domain": "Inflammation", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P228_277", "domain": "Neoplasia", "flags": [0, 1, 1, 0, 0, 1, 0, 0, 0, 1]}
+{"id": "P033_66", "domain": "Cardiovascular", "flags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"id": "P170_214", "domain": "Inflammation", "flags": [1, 1, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "P240_291", "domain": "Neoplasia", "flags": [0, 1, 0, 1, 1, 0, 0, 0, 1, 0]}
+{"id": "P125_168", "domain": "Immunopathology", "flags": [0, 0, 0, 0, 0, 1, 0, 1, 1, 0]}
+{"id": "P224_273", "domain": "Neoplasia", "flags": [0, 1, 1, 0, 0, 0, 0, 0, 0, 1]}
+{"id": "P202_248", "domain": "Neoplasia", "flags": [1, 1, 1, 1, 1, 0, 1, 1, 1, 1]}
+{"id": "P146_190", "domain": "Immunopathology", "flags": [0, 1, 0, 0, 1, 0, 1, 0, 0, 0]}
+{"id": "P210_258", "domain": "Neoplasia", "flags": [1, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P016_289", "domain": "Neoplasia", "flags": [1, 1, 0, 0, 0, 1, 0, 0, 0, 1]}
+{"id": "P106_146", "domain": "Cellular Injury", "flags": [1, 1, 1, 1, 1, 0, 1, 0, 1, 1]}
+{"id": "P004_122", "domain": "Cellular Injury", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P219_267", "domain": "Neoplasia", "flags": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}
+{"id": "P243_294", "domain": "Neoplasia", "flags": [0, 1, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"id": "P052_89", "domain": "Cardiovascular", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P061_98", "domain": "Cellular Injury", "flags": [1, 1, 1, 1, 1, 1, 0, 0, 1, 1]}
+{"id": "P124_167", "domain": "Immunopathology", "flags": [1, 1, 1, 0, 1, 0, 0, 0, 0, 0]}
+{"id": "P066_103", "domain": "Cellular Injury", "flags": [0, 0, 1, 0, 0, 1, 1, 0, 1, 1]}
+{"id": "P109_150", "domain": "Cellular Injury", "flags": [1, 1, 0, 1, 0, 0, 0, 0, 1, 0]}
+{"id": "P241_292", "domain": "Neoplasia", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "P026_59", "domain": "Cardiovascular", "flags": [1, 0, 0, 1, 0, 1, 0, 0, 0, 1]}
+{"id": "P222_271", "domain": "Neoplasia", "flags": [1, 1, 1, 1, 0, 1, 1, 0, 0, 1]}
+{"id": "P040_74", "domain": "Cardiovascular", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P003_82", "domain": "Cardiovascular", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P244_295", "domain": "Neoplasia", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P030_63", "domain": "Cardiovascular", "flags": [0, 1, 1, 0, 0, 1, 1, 1, 1, 0]}
+{"id": "P060_97", "domain": "Cellular Injury", "flags": [1, 1, 1, 1, 1, 0, 1, 0, 0, 0]}
+{"id": "P024_57", "domain": "Cardiovascular", "flags": [1, 1, 1, 1, 0, 0, 1, 1, 1, 1]}
+{"id": "P223_272", "domain": "Neoplasia", "flags": [1, 1, 0, 0, 0, 0, 1, 1, 0, 0]}
+{"id": "P013_255", "domain": "Neoplasia", "flags": [1, 1, 1, 1, 0, 0, 0, 0, 0, 1]}
+{"id": "P056_93", "domain": "Cardiovascular", "flags": [0, 1, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"id": "P137_181", "domain": "Immunopathology", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P129_172", "domain": "Immunopathology", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P019_52", "domain": "Cardiovascular", "flags": [1, 0, 0, 1, 1, 0, 0, 1, 0, 1]}
+{"id": "P187_231", "domain": "Inflammation", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P054_91", "domain": "Cardiovascular", "flags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"id": "P134_178", "domain": "Immunopathology", "flags": [1, 1, 1, 1, 1, 1, 1, 1, 0, 1]}
+{"id": "P200_246", "domain": "Neoplasia", "flags": [1, 0, 1, 1, 1, 1, 1, 1, 1, 1]}
+{"id": "P080_117", "domain": "Cellular Injury", "flags": [1, 1, 1, 1, 1, 1, 0, 1, 1, 1]}
+{"id": "P051_88", "domain": "Cardiovascular", "flags": [0, 1, 1, 1, 1, 0, 0, 0, 0, 0]}
+{"id": "P104_144", "domain": "Cellular Injury", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P249_241", "domain": "Neoplasia", "flags": [1, 1, 1, 1, 1, 0, 1, 1, 1, 1]}
+{"id": "P184_228", "domain": "Inflammation", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P002_81", "domain": "Cardiovascular", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P086_124", "domain": "Cellular Injury", "flags": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"id": "P010_175", "domain": "Immunopathology", "flags": [0, 0, 0, 0, 1, 1, 0, 0, 0, 0]}
+{"id": "P168_212", "domain": "Inflammation", "flags": [1, 1, 0, 1, 1, 0, 0, 1, 0, 0]}
+{"id": "P233_283", "domain": "Neoplasia", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P178_222", "domain": "Inflammation", "flags": [1, 0, 1, 0, 0, 1, 1, 0, 1, 0]}
+{"id": "P041_75", "domain": "Cardiovascular", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "P020_53", "domain": "Cardiovascular", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "P027_60", "domain": "Cardiovascular", "flags": [0, 1, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P226_275", "domain": "Neoplasia", "flags": [1, 1, 0, 0, 0, 1, 0, 1, 1, 1]}
+{"id": "P050_87", "domain": "Cardiovascular", "flags": [1, 1, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"id": "P014_270", "domain": "Neoplasia", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P206_252", "domain": "Neoplasia", "flags": [1, 0, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"id": "P046_83", "domain": "Cardiovascular", "flags": [0, 0, 1, 1, 1, 0, 0, 0, 0, 0]}
+{"id": "P171_215", "domain": "Inflammation", "flags": [0, 1, 0, 0, 1, 1, 0, 0, 0, 0]}
+{"id": "P245_297", "domain": "Neoplasia", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P123_166", "domain": "Immunopathology", "flags": [1, 1, 1, 1, 0, 1, 0, 1, 1, 1]}
+{"id": "P215_263", "domain": "Neoplasia", "flags": [1, 0, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"id": "P145_189", "domain": "Immunopathology", "flags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P062_99", "domain": "Cellular Injury", "flags": [1, 0, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"id": "P138_182", "domain": "Immunopathology", "flags": [1, 0, 0, 1, 1, 1, 0, 1, 0, 1]}
+{"id": "P190_234", "domain": "Inflammation", "flags": [1, 0, 1, 0, 1, 0, 0, 0, 0, 0]}
+{"id": "P153_197", "domain": "Immunopathology", "flags": [1, 0, 0, 1, 1, 0, 0, 0, 0, 1]}
+{"id": "P043_78", "domain": "Cardiovascular", "flags": [0, 0, 1, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "P135_179", "domain": "Immunopathology", "flags": [0, 1, 1, 0, 0, 0, 0, 0, 0, 1]}
+{"id": "P196_242", "domain": "Neoplasia", "flags": [1, 1, 0, 1, 0, 0, 1, 0, 0, 1]}
+{"id": "P112_153", "domain": "Immunopathology", "flags": [1, 0, 0, 1, 1, 0, 1, 1, 1, 0]}
+{"id": "P144_188", "domain": "Immunopathology", "flags": [1, 1, 0, 1, 1, 0, 0, 0, 0, 1]}
+{"id": "P159_203", "domain": "Inflammation", "flags": [1, 0, 0, 0, 0, 0, 0, 1, 0, 0]}
+{"id": "P182_226", "domain": "Inflammation", "flags": [1, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"id": "P098_138", "domain": "Cellular Injury", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P158_202", "domain": "Inflammation", "flags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"id": "P093_133", "domain": "Cellular Injury", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P149_193", "domain": "Immunopathology", "flags": [1, 0, 1, 0, 0, 0, 1, 0, 0, 0]}
+{"id": "P000_68", "domain": "Cardiovascular", "flags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"id": "P239_290", "domain": "Neoplasia", "flags": [0, 0, 1, 0, 1, 0, 0, 0, 0, 0]}
+{"id": "P113_154", "domain": "Immunopathology", "flags": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"id": "P094_134", "domain": "Cellular Injury", "flags": [1, 0, 1, 1, 0, 1, 0, 1, 1, 0]}
+{"id": "P049_86", "domain": "Cardiovascular", "flags": [1, 0, 0, 0, 0, 1, 1, 0, 1, 0]}
+{"id": "P069_106", "domain": "Cellular Injury", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "P048_85", "domain": "Cardiovascular", "flags": [0, 0, 0, 1, 0, 1, 0, 0, 0, 1]}
+{"id": "P095_135", "domain": "Cellular Injury", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P247_299", "domain": "Neoplasia", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "P141_185", "domain": "Immunopathology", "flags": [0, 1, 0, 1, 1, 1, 0, 1, 1, 1]}
+{"id": "P085_123", "domain": "Cellular Injury", "flags": [1, 0, 0, 0, 0, 0, 0, 1, 0, 0]}
+{"id": "P220_268", "domain": "Neoplasia", "flags": [1, 1, 1, 0, 0, 1, 0, 0, 1, 0]}
+{"id": "P023_56", "domain": "Cardiovascular", "flags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P143_187", "domain": "Immunopathology", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P078_115", "domain": "Cellular Injury", "flags": [0, 0, 1, 1, 0, 0, 1, 1, 0, 1]}
+{"id": "P100_140", "domain": "Cellular Injury", "flags": [1, 1, 1, 1, 1, 1, 1, 0, 1, 0]}
+{"id": "P131_174", "domain": "Immunopathology", "flags": [1, 0, 0, 1, 0, 0, 1, 1, 0, 0]}
+{"id": "P201_247", "domain": "Neoplasia", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P248_300", "domain": "Neoplasia", "flags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P006_132", "domain": "Cellular Injury", "flags": [1, 0, 1, 1, 0, 1, 0, 0, 0, 0]}
+{"id": "P084_121", "domain": "Cellular Injury", "flags": [0, 0, 1, 0, 0, 0, 0, 1, 1, 1]}
+{"id": "P068_105", "domain": "Cellular Injury", "flags": [1, 1, 0, 1, 0, 1, 0, 0, 0, 0]}
+{"id": "P121_163", "domain": "Immunopathology", "flags": [0, 1, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"id": "P234_284", "domain": "Neoplasia", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P212_260", "domain": "Neoplasia", "flags": [1, 1, 1, 0, 1, 1, 0, 0, 0, 0]}
+{"id": "P189_233", "domain": "Inflammation", "flags": [0, 0, 1, 0, 0, 0, 0, 1, 0, 0]}
+{"id": "P191_235", "domain": "Inflammation", "flags": [1, 0, 1, 0, 0, 0, 1, 0, 0, 0]}
+{"id": "P207_253", "domain": "Neoplasia", "flags": [0, 1, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"id": "P011_240", "domain": "Inflammation", "flags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P091_130", "domain": "Cellular Injury", "flags": [1, 0, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P119_161", "domain": "Immunopathology", "flags": [0, 0, 1, 1, 0, 1, 1, 0, 1, 0]}
+{"id": "P213_261", "domain": "Neoplasia", "flags": [1, 1, 1, 1, 0, 0, 0, 0, 0, 1]}
+{"id": "P102_142", "domain": "Cellular Injury", "flags": [0, 1, 1, 1, 0, 1, 0, 1, 0, 1]}
+{"id": "P035_69", "domain": "Cardiovascular", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P057_94", "domain": "Cardiovascular", "flags": [1, 0, 0, 1, 0, 0, 0, 1, 0, 0]}
+{"id": "P169_213", "domain": "Inflammation", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P001_76", "domain": "Cardiovascular", "flags": [0, 1, 1, 0, 0, 0, 0, 0, 0, 1]}
+{"id": "P065_102", "domain": "Cellular Injury", "flags": [1, 1, 1, 1, 0, 1, 1, 0, 1, 1]}
+{"id": "P199_245", "domain": "Neoplasia", "flags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P120_162", "domain": "Immunopathology", "flags": [0, 0, 1, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "P105_145", "domain": "Cellular Injury", "flags": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}
+{"id": "P042_77", "domain": "Cardiovascular", "flags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P236_286", "domain": "Neoplasia", "flags": [0, 1, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"id": "P132_176", "domain": "Immunopathology", "flags": [1, 1, 1, 1, 0, 1, 1, 0, 1, 0]}
+{"id": "P017_296", "domain": "Neoplasia", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P038_72", "domain": "Cardiovascular", "flags": [0, 0, 1, 0, 1, 1, 0, 0, 0, 0]}
+{"id": "P133_177", "domain": "Immunopathology", "flags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P053_90", "domain": "Cardiovascular", "flags": [1, 1, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "P034_67", "domain": "Cardiovascular", "flags": [1, 1, 0, 1, 0, 1, 0, 0, 0, 0]}
+{"id": "P214_262", "domain": "Neoplasia", "flags": [1, 1, 1, 1, 1, 0, 1, 1, 1, 1]}
+{"id": "P164_208", "domain": "Inflammation", "flags": [1, 0, 1, 0, 0, 0, 1, 1, 0, 0]}
+{"id": "P028_61", "domain": "Cardiovascular", "flags": [0, 1, 1, 1, 1, 1, 1, 0, 1, 1]}
+{"id": "P128_171", "domain": "Immunopathology", "flags": [1, 0, 1, 0, 1, 1, 0, 1, 0, 0]}
+{"id": "P183_227", "domain": "Inflammation", "flags": [1, 1, 1, 1, 0, 1, 1, 0, 0, 0]}
+{"id": "P114_156", "domain": "Immunopathology", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P163_207", "domain": "Inflammation", "flags": [1, 1, 1, 1, 0, 0, 1, 1, 0, 1]}
+{"id": "P151_195", "domain": "Immunopathology", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P205_251", "domain": "Neoplasia", "flags": [0, 0, 1, 1, 0, 0, 0, 0, 1, 0]}
+{"id": "P127_170", "domain": "Immunopathology", "flags": [1, 0, 0, 0, 0, 1, 1, 0, 0, 0]}
+{"id": "P031_64", "domain": "Cardiovascular", "flags": [1, 1, 1, 1, 1, 1, 0, 0, 1, 1]}
+{"id": "P185_229", "domain": "Inflammation", "flags": [1, 0, 0, 0, 0, 1, 0, 0, 0, 1]}
+{"id": "P221_269", "domain": "Neoplasia", "flags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P232_282", "domain": "Neoplasia", "flags": [1, 1, 1, 1, 1, 1, 1, 1, 0, 1]}
+{"id": "P032_65", "domain": "Cardiovascular", "flags": [1, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P167_211", "domain": "Inflammation", "flags": [1, 1, 1, 1, 0, 1, 1, 0, 0, 0]}
+{"id": "P142_186", "domain": "Immunopathology", "flags": [1, 0, 0, 0, 0, 1, 1, 0, 0, 1]}
+{"id": "P209_257", "domain": "Neoplasia", "flags": [0, 1, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"id": "P029_62", "domain": "Cardiovascular", "flags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"id": "P147_191", "domain": "Immunopathology", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "P177_221", "domain": "Inflammation", "flags": [1, 1, 1, 1, 1, 0, 1, 1, 1, 0]}
+{"id": "P099_139", "domain": "Cellular Injury", "flags": [1, 1, 1, 0, 1, 0, 1, 1, 1, 0]}
+{"id": "P082_119", "domain": "Cellular Injury", "flags": [1, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P246_298", "domain": "Neoplasia", "flags": [1, 0, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P175_219", "domain": "Inflammation", "flags": [1, 0, 1, 1, 0, 1, 0, 1, 1, 0]}
+{"id": "P079_116", "domain": "Cellular Injury", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P197_243", "domain": "Neoplasia", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P115_157", "domain": "Immunopathology", "flags": [0, 0, 0, 1, 0, 1, 0, 1, 0, 0]}
+{"id": "P208_256", "domain": "Neoplasia", "flags": [1, 1, 1, 1, 0, 1, 1, 1, 0, 1]}
+{"id": "P242_293", "domain": "Neoplasia", "flags": [1, 0, 0, 1, 1, 0, 0, 0, 1, 0]}
+{"id": "P072_109", "domain": "Cellular Injury", "flags": [1, 0, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P077_114", "domain": "Cellular Injury", "flags": [1, 0, 1, 0, 1, 1, 0, 0, 1, 0]}
+{"id": "P148_192", "domain": "Immunopathology", "flags": [0, 1, 1, 0, 0, 0, 0, 1, 0, 1]}
+{"id": "P025_58", "domain": "Cardiovascular", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P165_209", "domain": "Inflammation", "flags": [1, 1, 1, 0, 0, 1, 0, 1, 0, 0]}
+{"id": "P081_118", "domain": "Cellular Injury", "flags": [1, 0, 1, 1, 0, 1, 0, 1, 1, 0]}
+{"id": "P235_285", "domain": "Neoplasia", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P174_218", "domain": "Inflammation", "flags": [1, 0, 1, 0, 0, 1, 0, 1, 0, 0]}
+{"id": "P230_279", "domain": "Neoplasia", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1]}
+{"id": "P238_288", "domain": "Neoplasia", "flags": [1, 1, 1, 1, 1, 0, 1, 0, 1, 0]}
+{"id": "P039_73", "domain": "Cardiovascular", "flags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P193_237", "domain": "Inflammation", "flags": [1, 0, 1, 0, 1, 0, 0, 0, 0, 0]}
+{"id": "P058_95", "domain": "Cardiovascular", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P140_184", "domain": "Immunopathology", "flags": [0, 1, 0, 0, 0, 0, 0, 0, 1, 1]}
+{"id": "P087_126", "domain": "Cellular Injury", "flags": [1, 1, 0, 1, 1, 0, 0, 1, 0, 1]}
+{"id": "P036_70", "domain": "Cardiovascular", "flags": [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]}
+{"id": "P070_107", "domain": "Cellular Injury", "flags": [1, 1, 1, 0, 1, 0, 1, 0, 0, 0]}
+{"id": "P088_127", "domain": "Cellular Injury", "flags": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}
+{"id": "P216_264", "domain": "Neoplasia", "flags": [1, 1, 1, 0, 1, 0, 1, 1, 1, 0]}
+{"id": "P211_259", "domain": "Neoplasia", "flags": [1, 1, 0, 0, 1, 0, 0, 1, 0, 0]}
+{"id": "P021_54", "domain": "Cardiovascular", "flags": [0, 0, 1, 0, 1, 0, 0, 0, 0, 0]}
+{"id": "P009_165", "domain": "Immunopathology", "flags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "P067_104", "domain": "Cellular Injury", "flags": [1, 0, 1, 0, 1, 0, 1, 0, 0, 0]}
+{"id": "P195_239", "domain": "Inflammation", "flags": [1, 1, 1, 0, 1, 1, 0, 0, 0, 1]}
+{"id": "P103_143", "domain": "Cellular Injury", "flags": [1, 1, 1, 0, 1, 1, 1, 1, 0, 1]}
+{"id": "P192_236", "domain": "Inflammation", "flags": [0, 0, 0, 0, 0, 1, 0, 1, 0, 0]}
+{"id": "P117_159", "domain": "Immunopathology", "flags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"id": "P047_84", "domain": "Cardiovascular", "flags": [1, 0, 1, 1, 1, 0, 1, 1, 1, 0]}
+{"id": "P172_216", "domain": "Inflammation", "flags": [0, 1, 1, 1, 0, 0, 0, 1, 0, 1]}

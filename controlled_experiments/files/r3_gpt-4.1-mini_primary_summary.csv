@@ -1,0 +1,7 @@
+reader,condition,n,correct,accuracy,ci95,unparsed,mean_rounds,at_cap_pct,tokens,tokens_sd,usd_per_1000,usd_ci,usd_p5_p95,sec
+gpt-4.1-mini / primary,No-RAG,250,230,0.92,0.880-0.948,0,1.0,0.0,459,57,0.324,0.316-0.333,0.26-0.40,1.29
+gpt-4.1-mini / primary,Single-pass RAG,250,227,0.908,0.866-0.938,0,1.0,0.0,1947,175,0.924,0.913-0.936,0.82-1.07,1.35
+gpt-4.1-mini / primary,"RAG-SEQ, 1 round (prompt control)",250,229,0.916,0.875-0.944,0,1.0,76.0,3659,981,1.435,1.380-1.491,0.81-2.04,2.03
+gpt-4.1-mini / primary,"RAG-SEQ, cap 2",250,233,0.932,0.894-0.957,0,1.76,0.8,4945,1730,1.906,1.825-1.987,0.86-2.72,2.06
+gpt-4.1-mini / primary,"RAG-SEQ, cap 3",250,233,0.932,0.894-0.957,0,1.77,0.4,4984,1912,1.918,1.833-2.005,0.86-2.73,2.07
+gpt-4.1-mini / primary,"Decoupled assessor, cap 3",250,230,0.92,0.880-0.948,0,2.2,49.2,9912,5018,2.416,2.292-2.541,1.06-3.72,3.4

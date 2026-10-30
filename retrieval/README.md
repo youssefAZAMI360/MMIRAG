@@ -9,6 +9,6 @@ the knowledge base, returning the caption and adjacent text lines.
 **Text retrieval:** dense retrieval over the chunked knowledge base
 (chunk = 180 words, 40-word overlap) using `all-mpnet-base-v2` (768-dimensional
 Sentence-BERT embeddings) with a FAISS `IndexFlatL2` (L2 / Euclidean distance),
-top-k = 5. The reranking and hybrid-retrieval ablations reported in the revision
+top-k = 5. The reranking and hybrid-retrieval ablations reported in the paper
 (biomedical bi-encoder, MedCPT cross-encoder, BM25 + dense RRF) are summarised in
 `../results/retriever_ablation_summary.csv`.

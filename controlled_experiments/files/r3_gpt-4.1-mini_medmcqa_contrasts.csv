@@ -1,0 +1,9 @@
+reader,contrast,diff_pp,gained,lost,p,p_holm
+gpt-4.1-mini / medmcqa,Prompt effect: RAG-SEQ 1 round vs single-pass,1.0,22,12,0.12144948495551944,0.48579793982207775
+gpt-4.1-mini / medmcqa,Iteration effect: cap 3 vs 1 round,1.4,23,9,0.020061607006937265,0.16049285605549812
+gpt-4.1-mini / medmcqa,cap 2 vs 1 round,1.2,22,10,0.050102459732443094,0.35071721812710166
+gpt-4.1-mini / medmcqa,Decoupled loop vs single-pass (same answer prompt),1.0,24,14,0.14330665429588407,0.48579793982207775
+gpt-4.1-mini / medmcqa,Coupled (RAG-SEQ) vs decoupled stopping,1.4,31,17,0.05946337525377034,0.35678025152262205
+gpt-4.1-mini / medmcqa,RAG-SEQ vs No-RAG,1.0,34,24,0.23704711476271959,0.48579793982207775
+gpt-4.1-mini / medmcqa,Single-pass vs No-RAG,-1.4,21,35,0.08142681460950618,0.4071340730475309
+gpt-4.1-mini / medmcqa,Decoupled vs No-RAG,-0.4,30,34,0.7079807541347641,0.7079807541347641
