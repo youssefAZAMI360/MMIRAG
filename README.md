@@ -103,6 +103,7 @@ MMIRAG/
 │   ├── Pipeline.ipynb        # Full multimodal pipeline (PubMedCLIP image retrieval)
 │   ├── pipeline.py           # Extracted Python source of the notebook
 │   └── parse_results.py
+├── image_retrieval/          # Image-retrieval notebook with the saved run shown in Figure 3
 ├── data/                     # Primary benchmark (§4)
 ├── controlled_experiments/   # gpt-4.1-mini experiments, all API replies, verification (§4–§5)
 ├── results/                  # Retriever ablation (§4)
